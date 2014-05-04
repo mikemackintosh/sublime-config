@@ -1,0 +1,22 @@
+{
+	"installed_packages":
+	[
+		"Alignment",
+		"Browser Refresh",
+		"Chef",
+		"DocBlockr",
+		"GitGutter",
+		"GitHub Flavored Markdown Preview",
+		"nginx",
+		"PhpDoc",
+		"Puppet",
+		"RPM Spec Syntax",
+		"SFTP",
+		"Solarized Color Scheme",
+		"Solarized Toggle",
+		"SublimeLinter-php",
+		"Theme - Afterglow",
+		"Theme - Soda SolarizedDark",
+		"VimL"
+	]
+}
