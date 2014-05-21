@@ -1,6 +1,7 @@
 {
 	"color_scheme": "Packages/Solarized Color Scheme/Solarized (dark).tmTheme",
-	"font_size": 9,
+	"extract_sublime_package_ask_on_open": true,
+	"font_size": 11,
 	"ignored_packages":
 	[
 		"Vintage"

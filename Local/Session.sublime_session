@@ -1,9 +1,13 @@
 {
 	"folder_history":
 	[
+		"/Users/mmackintosh/repos/sixeightzero/optical-academy",
+		"/Users/mmackintosh/repos/github/rocket",
+		"/Users/mmackintosh/Desktop/rockethome pro/frontend",
+		"/Users/mmackintosh/.dotfiles"
 	],
 	"last_version": 3059,
-	"last_window_id": 8,
+	"last_window_id": 28,
 	"log_indexing": false,
 	"settings":
 	{
@@ -14,42 +18,102 @@
 			{
 				"selected_items":
 				[
+					[
+						"sig_cla",
+						"sig_class_id"
+					],
+					[
+						"alert",
+						"alert_match"
+					],
+					[
+						"pro",
+						"protocol"
+					],
+					[
+						"source",
+						"source_ip"
+					]
 				]
 			},
-			"build_system": "",
+			"build_system": "Packages/User/PHP.sublime-build",
 			"command_palette":
 			{
-				"height": 107.0,
+				"height": 47.0,
 				"selected_items":
 				[
 					[
-						"githu",
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"prev",
 						"GitHub Flavored Markdown: Preview"
 					],
 					[
-						"instal",
-						"Package Control: Install Package"
+						"mark",
+						"Set Syntax: MultiMarkdown"
+					],
+					[
+						"markdo",
+						"GitHub Flavored Markdown: Preview"
 					],
 					[
 						"install",
 						"Package Control: Install Package"
 					],
 					[
-						"isnta",
-						"Package Control: Install Package"
+						"ruby",
+						"Set Syntax: Ruby"
+					],
+					[
+						"syntax",
+						"Set Syntax: Python"
+					],
+					[
+						"",
+						"Set Syntax: PHP"
+					],
+					[
+						"blame",
+						"GitHub Flavored Markdown: Preview"
+					],
+					[
+						"git",
+						"GitGutter: Show Comparing Against"
 					],
 					[
 						"insta",
 						"Package Control: Install Package"
+					],
+					[
+						"githu",
+						"GitHub Flavored Markdown: Preview"
+					],
+					[
+						"isnta",
+						"Package Control: Install Package"
 					]
 				],
-				"width": 568.0
+				"width": 593.0
 			},
 			"console":
 			{
 				"height": 126.0,
 				"history":
 				[
+					"call(\"echo Hello World\", shell=True)  ",
+					"print call(\"echo Hello World\", shell=True)  ",
+					"return_code = call(\"echo Hello World\", shell=True)  ",
+					"os.system(\"php -i\")",
+					"import os; os.system(\"php -i\")",
+					"os.system(\"php -i\")",
+					"call([\"php\", \"-i\"])",
+					"call([\"php\", \"-l\"])",
+					"call([\"php\", \"-l\")",
+					"call([\"ls\", \"-l\"])",
+					"from subprocess import call",
+					"php -l",
 					"exit()",
 					"exit",
 					"sys.exec('sudo ./oink.py')",
@@ -70,11 +134,35 @@
 			},
 			"file_history":
 			[
-				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Packages/User/Python - Sudo .sublime-build",
-				"/Users/mmackintosh/projects/utils/oink/oink.py",
-				"/Users/mmackintosh/projects/utils/oink/README.md",
-				"/Users/mmackintosh/Desktop/junos.php",
+				"/Users/mmackintosh/Desktop/sdm_shuttercorp_net(1).pem",
+				"/Users/mmackintosh/repos/shutterstock/puppet/src/manifests/nodes/shuttercorp/ma01/prod-wordpress01.pp",
+				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Packages/nginx/Syntaxes/nginx.tmLanguage",
+				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Packages/nginx/Examples/nginx.conf",
 				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Installed Packages/nginx.sublime-package",
+				"/Users/mmackintosh/Desktop/netscan.sh",
+				"/Users/mmackintosh/Desktop/# Old Files/slax/Event Scripts/Disable Interface/disable-interface.slax",
+				"/Users/mmackintosh/repos/shutterstock/snort-rules/snort.conf",
+				"/Users/mmackintosh/Desktop/# Old Files/slax/Event Scripts/DynDNS/dyn-dns-update.xslt",
+				"/Users/mmackintosh/repos/github/Rocket/DB/table.php",
+				"/Users/mmackintosh/repos/github/Rocket/DB/database.php",
+				"/Users/mmackintosh/repos/github/Rocket/autorun",
+				"/Users/mmackintosh/repos/github/Rocket/DB/config.php",
+				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Packages/User/SolarizedToggle.sublime-settings",
+				"/Users/mmackintosh/Desktop/app.php",
+				"/Users/mmackintosh/sites/splug.io/posts/02-sort-ips-with-bash.md",
+				"/Users/mmackintosh/projects/sites/tophat/bin/log_importer",
+				"/Users/mmackintosh/projects/utils/oink/oink.py",
+				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Packages/Alignment/Default (OSX).sublime-keymap",
+				"/Users/mmackintosh/projects/utils/oink/config.yaml",
+				"/Users/mmackintosh/projects/utils/oink/test.sh",
+				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/Users/mmackintosh/sites/splug.io/index.php",
+				"/Users/mmackintosh/sites/splug.io/app.php",
+				"/Users/mmackintosh/Desktop/junos.php",
+				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Packages/User/PHP.sublime-build",
+				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Packages/User/Python - Sudo .sublime-build",
+				"/Users/mmackintosh/projects/utils/oink/README.md",
 				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Cache/Solarized Color Scheme/Solarized (dark).tmTheme.cache",
 				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Installed Packages/Theme - Soda SolarizedDark.sublime-package",
 				"/Users/mmackintosh/Desktop/a.php",
@@ -97,14 +185,17 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"^",
+					"try",
 					"count"
 				],
 				"highlight": true,
-				"in_selection": false,
+				"in_selection": true,
 				"preserve_case": false,
-				"regex": false,
+				"regex": true,
 				"replace_history":
 				[
+					"#"
 				],
 				"reverse": false,
 				"show_context": true,
@@ -114,7 +205,7 @@
 			},
 			"incremental_find":
 			{
-				"height": 20.0
+				"height": 22.0
 			},
 			"input":
 			{
@@ -123,7 +214,7 @@
 			"menu_visible": true,
 			"output.exec":
 			{
-				"height": 82.0
+				"height": 156.0
 			},
 			"output.find_results":
 			{
@@ -131,7 +222,7 @@
 			},
 			"output.sftp":
 			{
-				"height": 0.0
+				"height": 94.0
 			},
 			"replace":
 			{
@@ -164,15 +255,15 @@
 			},
 			"show_minimap": true,
 			"show_open_files": false,
-			"show_tabs": false,
+			"show_tabs": true,
 			"side_bar_visible": true,
 			"side_bar_width": 150.0,
-			"status_bar_visible": false,
+			"status_bar_visible": true,
 			"template_settings":
 			{
 			}
 		},
-		"new_window_width": 720.0
+		"new_window_width": 1113.0
 	},
 	"windows":
 	[
@@ -181,6 +272,10 @@
 			{
 				"selected_items":
 				[
+					[
+						"sig_cla",
+						"sig_class_id"
+					],
 					[
 						"alert",
 						"alert_match"
@@ -198,36 +293,87 @@
 			"buffers":
 			[
 				{
-					"file": "/Users/mmackintosh/projects/utils/oink/oink.py",
+					"file": "/Users/mmackintosh/Desktop/ssl stuff.md",
 					"settings":
 					{
-						"buffer_size": 5752,
-						"line_ending": "Unix"
+						"buffer_size": 1795,
+						"line_ending": "Unix",
+						"name": "openssl s_client -connect sdm.shuttercorp.net:7563"
 					}
 				},
 				{
-					"file": "/Users/mmackintosh/Desktop/netscan.sh",
+					"file": "/Users/mmackintosh/Desktop/desktop_sutff.mdown",
 					"settings":
 					{
-						"buffer_size": 186,
+						"buffer_size": 565,
 						"line_ending": "Unix",
-						"name": "#!/bin/bash"
+						"name": "# Managing Remote and Local Workstations"
+					}
+				},
+				{
+					"contents": "Package Control Messages\n========================\n\nMarkdownTOC:\n-----------\n\n  # MarkdownTOC\n  \n  This plugin search headings in document and insert TOC(Table Of Contents) to it.\n  \n  ## Feature\n  \n  - Insert Table of Contents depending on headings in document\n  - TOC reflects contents from below its position or cursor (when you select \"Insert TOC\" menu)\n  - Auto linking when heading has anchor\n  - Refresh contents when file is saving\n  - [Control TOC depth in its comment tags][depth-control]\n  \n  ## Using\n  \n  1. Open Markdown files.\n  2. Move cursor to position where you want to insert TOC.\n  3. Tools > MarkdownTOC > Insert TOC\n  4. TOC has inserted into document!\n  5. Update contents and save...\n  6. TOC has been updated.\n  \n  ***Don't remove the comment tags if you want to update every time saving.***\n  \n  \n  ## Depth control [depth-control]\n  \n  You can control TOC depth in its comment tags.\n  \n  ```\n  <!-- MarkdownTOC depth=2 -->\n  \n  - foo\n    - bar\n    - buz\n  - qux\n  \n  <!-- /MarkdownTOC -->\n  ```\n  ```\n  <!-- MarkdownTOC depth=3 -->\n  \n  - foo\n    - bar\n      - qux\n      - quux\n    - buz\n  - qux\n  \n  <!-- /MarkdownTOC -->\n  ```\n  \n  You can also set default depth in Settings.\n  \n  Preference > Package Settings > MarkdownTOC > Settings - User\n  \n  ```\n  {\n    \"default_depth\": 0\n  }\n  ```\n  \n  `depth=0` means no limit\n  \n\n\nMarkmon real-time markdown preview:\n----------------------------------\n\n  # Sublime Text 3 - Markmon\n  \n  SublimeText 3 integration with [Markmon](https://github.com/yyjhao/markmon)\n  for real-time markdown preview with mathjax support.\n  \n  ![markmon](http://yjyao.com/images/markmon.gif)\n  \n  ## Important note\n  \n  You have to install [Markmon](https://github.com/yyjhao/markmon) separately for\n  this plugin to work. You can do so by\n  \n  ```bash\n  npm install -g markmon\n  ```\n  \n  Note that markmon relies on [Node.js](http://nodejs.org).\n  \n  Markmon does not come with its own markdown converter so you will need to install your own. I recommend [pandoc](http://johnmacfarlane.net/pandoc/installing.html). **Currently mathjax\n  support is limited to pandoc only.**\n  \n  If you want to customize your pandoc parameters or use a converter other than\n  pandoc, go to  Sublime Text → Preferences → Package Settings → Markmon →\n  Settings(User) and update the 'command' parameter according to\n  Settings(Default). More information about the parameters can be found in the documentation for [Markmon](https://github.com/yyjhao/markmon).\n  \n  ## Installation Instructions\n  \n  **Package Installer:**\n  \n  * Install [Sublime Package Control](http://wbond.net/sublime_packages/package_control)\n  * Select \"Package Control: Install Package\" from the Command Palette (⌘⇧P)\n  * Find \"Markmon\" and select\n  \n  **Manually:**\n  \n  * Download [sublime-text-markmon](https://github.com/yyjhao/sublime-text-markmon/archive/master.zip) and copy unzipped folder to your Sublime Text packages folder (Sublime Text → Preferences → Browse Packages...)\n  * Restart Sublime Text\n  \n  ## Usage\n  \n  First note that markmon only watches your views with markdown syntax, so be sure\n  to check the syntax setting.\n  \n  **Command Palette:**\n  \n  * Select \"Markmon launch\" from the Command Palette (⌘⇧P)\n  \n  **Keyboard Shortcut:**\n  \n  You can check the default short cut by going to Sublime Text → Preferences →\n  Package Settings → Markmon → Key Bindings - Default.\n  \n  **Menus:**\n  \n  * Select Tools → markmon\n  \n  ## Acknowledgment\n  \n  I use [sublime-text-marked](https://github.com/icio/sublime-text-marked) and\n  [SublimeLinter3](https://github.com/SublimeLinter/SublimeLinter3) as templates\n  for this plugin.\n  \n",
+					"settings":
+					{
+						"buffer_size": 3653,
+						"line_ending": "Unix",
+						"name": "Package Control Messages",
+						"scratch": true
 					}
 				}
 			],
-			"build_system": "",
+			"build_system": "Packages/User/PHP.sublime-build",
 			"command_palette":
 			{
-				"height": 47.0,
+				"height": 392.0,
 				"selected_items":
 				[
+					[
+						"markdo",
+						"Preferences: Markmon Key Bindings – User"
+					],
 					[
 						"instal",
 						"Package Control: Install Package"
 					],
 					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"previ",
+						"GitHub Flavored Markdown: Preview"
+					],
+					[
+						"prev",
+						"GitHub Flavored Markdown: Preview"
+					],
+					[
+						"mark",
+						"Set Syntax: MultiMarkdown"
+					],
+					[
 						"install",
 						"Package Control: Install Package"
+					],
+					[
+						"ruby",
+						"Set Syntax: Ruby"
+					],
+					[
+						"syntax",
+						"Set Syntax: Python"
+					],
+					[
+						"",
+						"Set Syntax: PHP"
+					],
+					[
+						"blame",
+						"GitHub Flavored Markdown: Preview"
+					],
+					[
+						"git",
+						"GitGutter: Show Comparing Against"
 					],
 					[
 						"insta",
@@ -242,13 +388,25 @@
 						"Package Control: Install Package"
 					]
 				],
-				"width": 449.0
+				"width": 593.0
 			},
 			"console":
 			{
 				"height": 126.0,
 				"history":
 				[
+					"call(\"echo Hello World\", shell=True)  ",
+					"print call(\"echo Hello World\", shell=True)  ",
+					"return_code = call(\"echo Hello World\", shell=True)  ",
+					"os.system(\"php -i\")",
+					"import os; os.system(\"php -i\")",
+					"os.system(\"php -i\")",
+					"call([\"php\", \"-i\"])",
+					"call([\"php\", \"-l\"])",
+					"call([\"php\", \"-l\")",
+					"call([\"ls\", \"-l\"])",
+					"from subprocess import call",
+					"php -l",
 					"exit()",
 					"exit",
 					"sys.exec('sudo ./oink.py')",
@@ -269,25 +427,44 @@
 			},
 			"file_history":
 			[
-				"/Users/mmackintosh/projects/utils/oink/test.sh",
+				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/mmackintosh/Desktop/sdm_shuttercorp_net(1).pem",
+				"/Users/mmackintosh/repos/shutterstock/puppet/src/manifests/nodes/shuttercorp/ma01/prod-wordpress01.pp",
+				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Packages/nginx/Syntaxes/nginx.tmLanguage",
+				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Packages/nginx/Examples/nginx.conf",
 				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Installed Packages/nginx.sublime-package",
+				"/Users/mmackintosh/Desktop/netscan.sh",
+				"/Users/mmackintosh/Desktop/# Old Files/slax/Event Scripts/Disable Interface/disable-interface.slax",
+				"/Users/mmackintosh/repos/shutterstock/snort-rules/snort.conf",
+				"/Users/mmackintosh/Desktop/# Old Files/slax/Event Scripts/DynDNS/dyn-dns-update.xslt",
+				"/Users/mmackintosh/repos/github/Rocket/DB/table.php",
+				"/Users/mmackintosh/repos/github/Rocket/DB/database.php",
+				"/Users/mmackintosh/repos/github/Rocket/autorun",
+				"/Users/mmackintosh/repos/github/Rocket/DB/config.php",
+				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Packages/User/SolarizedToggle.sublime-settings",
+				"/Users/mmackintosh/Desktop/app.php",
+				"/Users/mmackintosh/sites/splug.io/posts/02-sort-ips-with-bash.md",
+				"/Users/mmackintosh/projects/sites/tophat/bin/log_importer",
+				"/Users/mmackintosh/projects/utils/oink/oink.py",
+				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Packages/Alignment/Default (OSX).sublime-keymap",
+				"/Users/mmackintosh/projects/utils/oink/config.yaml",
+				"/Users/mmackintosh/projects/utils/oink/test.sh",
 				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
 				"/Users/mmackintosh/sites/splug.io/index.php",
 				"/Users/mmackintosh/sites/splug.io/app.php",
 				"/Users/mmackintosh/Desktop/junos.php",
 				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Packages/User/PHP.sublime-build",
 				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Packages/User/Python - Sudo .sublime-build",
-				"/Users/mmackintosh/projects/utils/oink/oink.py",
 				"/Users/mmackintosh/projects/utils/oink/README.md",
 				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Cache/Solarized Color Scheme/Solarized (dark).tmTheme.cache",
 				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Installed Packages/Theme - Soda SolarizedDark.sublime-package",
 				"/Users/mmackintosh/Desktop/a.php",
-				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
 				"/Users/mmackintosh/Desktop/rapidresponse.md"
 			],
 			"find":
 			{
-				"height": 35.0
+				"height": 22.0
 			},
 			"find_in_files":
 			{
@@ -301,14 +478,17 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"^",
+					"try",
 					"count"
 				],
 				"highlight": true,
-				"in_selection": false,
+				"in_selection": true,
 				"preserve_case": false,
-				"regex": false,
+				"regex": true,
 				"replace_history":
 				[
+					"#"
 				],
 				"reverse": false,
 				"show_context": true,
@@ -319,64 +499,90 @@
 			"groups":
 			[
 				{
-					"selected": 0,
+					"selected": 1,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/Users/mmackintosh/projects/utils/oink/oink.py",
+							"file": "/Users/mmackintosh/Desktop/ssl stuff.md",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 5752,
+								"buffer_size": 1795,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										3005,
-										3005
+										1795,
+										1795
 									]
 								],
 								"settings":
 								{
+									"auto_name": "openssl s_client -connect sdm.shuttercorp.net:7563",
 									"incomplete_sync": null,
-									"remote_loading": false,
-									"synced": false,
-									"syntax": "Packages/Python/Python.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
+									"syntax": "Packages/Markdown/Markdown.tmLanguage"
 								},
-								"translation.x": 35.0,
-								"translation.y": 1472.0,
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Users/mmackintosh/Desktop/desktop_sutff.mdown",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 565,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										219,
+										219
+									]
+								],
+								"settings":
+								{
+									"auto_name": "# Managing Remote and Local Workstations",
+									"incomplete_sync": null,
+									"syntax": "Packages/Markdown/Markdown.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
 							"type": "text"
 						},
 						{
-							"buffer": 1,
-							"file": "/Users/mmackintosh/Desktop/netscan.sh",
+							"buffer": 2,
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 186,
+								"buffer_size": 3653,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										64,
-										64
+										215,
+										215
 									]
 								],
 								"settings":
 								{
-									"auto_name": "#!/bin/bash",
 									"incomplete_sync": null,
-									"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"word_wrap": true
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -390,7 +596,7 @@
 			],
 			"incremental_find":
 			{
-				"height": 20.0
+				"height": 22.0
 			},
 			"input":
 			{
@@ -421,7 +627,7 @@
 			"menu_visible": true,
 			"output.exec":
 			{
-				"height": 284.0
+				"height": 156.0
 			},
 			"output.find_results":
 			{
@@ -429,9 +635,9 @@
 			},
 			"output.sftp":
 			{
-				"height": 0.0
+				"height": 94.0
 			},
-			"position": "645 0 795 878 0 0 1440 878 ",
+			"position": "117 247 1117 631 0 0 1440 878 ",
 			"project": "",
 			"replace":
 			{
@@ -470,11 +676,11 @@
 			"show_tabs": true,
 			"side_bar_visible": true,
 			"side_bar_width": 150.0,
-			"status_bar_visible": false,
+			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 8,
+			"window_id": 28,
 			"workspace_name": ""
 		}
 	],
