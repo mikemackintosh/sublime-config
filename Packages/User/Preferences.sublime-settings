@@ -6,5 +6,9 @@
 	[
 		"Vintage"
 	],
+	"font_options":
+    [
+        "no_antialias"
+    ],
 	"spell_check": true
 }

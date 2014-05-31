@@ -13,11 +13,11 @@
 		"/Users/mmackintosh/.dotfiles"
 	],
 	"last_version": 3059,
-	"last_window_id": 41,
+	"last_window_id": 42,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 856.0,
+		"new_window_height": 768.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -42,354 +42,6 @@
 					]
 				]
 			},
-			"build_system": "Packages/Python/Python.sublime-build",
-			"command_palette":
-			{
-				"height": 267.0,
-				"selected_items":
-				[
-					[
-						"prev",
-						"GitHub Flavored Markdown: Preview"
-					],
-					[
-						"marko",
-						"MarkdownLive: Reload Server"
-					],
-					[
-						"Markdown",
-						"MarkdownLive: Reload Server"
-					],
-					[
-						"markdo",
-						"Preferences: Markmon Key Bindings – User"
-					],
-					[
-						"instal",
-						"Package Control: Install Package"
-					],
-					[
-						"in",
-						"Package Control: Install Package"
-					],
-					[
-						"previ",
-						"GitHub Flavored Markdown: Preview"
-					],
-					[
-						"mark",
-						"Set Syntax: MultiMarkdown"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
-						"ruby",
-						"Set Syntax: Ruby"
-					],
-					[
-						"syntax",
-						"Set Syntax: Python"
-					],
-					[
-						"",
-						"Set Syntax: PHP"
-					],
-					[
-						"blame",
-						"GitHub Flavored Markdown: Preview"
-					],
-					[
-						"git",
-						"GitGutter: Show Comparing Against"
-					],
-					[
-						"insta",
-						"Package Control: Install Package"
-					],
-					[
-						"githu",
-						"GitHub Flavored Markdown: Preview"
-					],
-					[
-						"isnta",
-						"Package Control: Install Package"
-					]
-				],
-				"width": 593.0
-			},
-			"console":
-			{
-				"height": 126.0,
-				"history":
-				[
-					"call(\"echo Hello World\", shell=True)  ",
-					"print call(\"echo Hello World\", shell=True)  ",
-					"return_code = call(\"echo Hello World\", shell=True)  ",
-					"os.system(\"php -i\")",
-					"import os; os.system(\"php -i\")",
-					"os.system(\"php -i\")",
-					"call([\"php\", \"-i\"])",
-					"call([\"php\", \"-l\"])",
-					"call([\"php\", \"-l\")",
-					"call([\"ls\", \"-l\"])",
-					"from subprocess import call",
-					"php -l",
-					"exit()",
-					"exit",
-					"sys.exec('sudo ./oink.py')",
-					"exec sudo oink.py",
-					"exec",
-					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
-					" import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
-				]
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"file_history":
-			[
-				"/Users/splug/Repos/shutterstock/macinvader/clients/invader.py",
-				"/Users/splug/Repos/shutterstock/macinvader/routes/api.rb",
-				"/Users/splug/Repos/shutterstock/macinvader/sql/migrate/06_create_device_firmware.rb",
-				"/Users/splug/Repos/shutterstock/macinvader/sql/migrate/03_create_events.rb",
-				"/Users/splug/Repos/shutterstock/macinvader/sql/migrate/01_create_devices.rbe",
-				"/Users/splug/Repos/shutterstock/macinvader/config/databases.yaml",
-				"/Users/splug/Repos/shutterstock/macinvader/lib/attributes_to_liquid_methods_mapper.rb",
-				"/Users/splug/Repos/rockethome/www/public/index.html",
-				"/Users/splug/Repos/rockethome/www/public/css/style.css",
-				"/Users/splug/Repos/github/rocketframework/composer.json",
-				"/Users/splug/Repos/shutterstock/macinvader/mi.css",
-				"/Users/splug/Downloads/our-boxen-master/vendor/puppet/cache/boxen-puppet-nginx-b1e3273/manifests/init.pp",
-				"/Users/splug/Downloads/our-boxen-master/manifests/site.pp",
-				"/Users/splug/Library/Application Support/Sublime Text 3/Packages/User/dTR-mdp.py",
-				"/Users/splug/Repos/github/transmission/views/layout.erb",
-				"/Users/splug/Repos/github/transmission/routes/messages.rb",
-				"/Users/splug/Repos/github/transmission/views/message.erb",
-				"/Users/splug/Repos/github/transmission/transmission.rb",
-				"/Users/splug/Repos/github/transmission/routes/account.rb",
-				"/Users/splug/Repos/github/transmission/views/message_auth.erb",
-				"/Users/splug/Repos/github/transmission/views/messages.erb",
-				"/Users/splug/Repos/github/transmission/views/send.erb",
-				"/Users/splug/Repos/github/transmission/views/login.erb",
-				"/Users/splug/Repos/github/transmission/views/signup.erb",
-				"/Users/splug/Repos/github/transmission/layout.erb",
-				"/Users/splug/Repos/github/transmission/views/index.erb",
-				"/Users/splug/Repos/github/net-ssh/test/test_key_factory.rb",
-				"/Users/splug/Repos/github/net-ssh/lib/net/ssh/key_factory.rb",
-				"/Users/splug/Repos/github/transmission/helpers/system.rb",
-				"/Users/mmackintosh/Desktop/desktop_sutff.mdown",
-				"/Users/mmackintosh/Desktop/ssl stuff.md",
-				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
-				"/Users/mmackintosh/Desktop/sdm_shuttercorp_net(1).pem",
-				"/Users/mmackintosh/repos/shutterstock/puppet/src/manifests/nodes/shuttercorp/ma01/prod-wordpress01.pp",
-				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Packages/nginx/Syntaxes/nginx.tmLanguage",
-				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Packages/nginx/Examples/nginx.conf",
-				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Installed Packages/nginx.sublime-package",
-				"/Users/mmackintosh/Desktop/netscan.sh",
-				"/Users/mmackintosh/Desktop/# Old Files/slax/Event Scripts/Disable Interface/disable-interface.slax",
-				"/Users/mmackintosh/repos/shutterstock/snort-rules/snort.conf",
-				"/Users/mmackintosh/Desktop/# Old Files/slax/Event Scripts/DynDNS/dyn-dns-update.xslt",
-				"/Users/mmackintosh/repos/github/Rocket/DB/table.php",
-				"/Users/mmackintosh/repos/github/Rocket/DB/database.php",
-				"/Users/mmackintosh/repos/github/Rocket/autorun",
-				"/Users/mmackintosh/repos/github/Rocket/DB/config.php",
-				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Packages/User/SolarizedToggle.sublime-settings",
-				"/Users/mmackintosh/Desktop/app.php",
-				"/Users/mmackintosh/sites/splug.io/posts/02-sort-ips-with-bash.md",
-				"/Users/mmackintosh/projects/sites/tophat/bin/log_importer",
-				"/Users/mmackintosh/projects/utils/oink/oink.py",
-				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Packages/Alignment/Default (OSX).sublime-keymap",
-				"/Users/mmackintosh/projects/utils/oink/config.yaml",
-				"/Users/mmackintosh/projects/utils/oink/test.sh",
-				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
-				"/Users/mmackintosh/sites/splug.io/index.php",
-				"/Users/mmackintosh/sites/splug.io/app.php",
-				"/Users/mmackintosh/Desktop/junos.php",
-				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Packages/User/PHP.sublime-build",
-				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Packages/User/Python - Sudo .sublime-build",
-				"/Users/mmackintosh/projects/utils/oink/README.md",
-				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Cache/Solarized Color Scheme/Solarized (dark).tmTheme.cache",
-				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Installed Packages/Theme - Soda SolarizedDark.sublime-package",
-				"/Users/mmackintosh/Desktop/a.php",
-				"/Users/mmackintosh/Desktop/rapidresponse.md"
-			],
-			"find":
-			{
-				"height": 22.0
-			},
-			"find_in_files":
-			{
-				"height": 0.0,
-				"where_history":
-				[
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": false,
-				"find_history":
-				[
-					"      t.string :(.*)",
-					"());",
-					"^",
-					"try",
-					"count"
-				],
-				"highlight": true,
-				"in_selection": true,
-				"preserve_case": false,
-				"regex": true,
-				"replace_history":
-				[
-					"        device.$1 = params.delete('$1')",
-					"#"
-				],
-				"reverse": false,
-				"show_context": true,
-				"use_buffer2": true,
-				"whole_word": false,
-				"wrap": true
-			},
-			"incremental_find":
-			{
-				"height": 22.0
-			},
-			"input":
-			{
-				"height": 30.0
-			},
-			"menu_visible": true,
-			"output.exec":
-			{
-				"height": 282.0
-			},
-			"output.find_results":
-			{
-				"height": 0.0
-			},
-			"output.sftp":
-			{
-				"height": 94.0
-			},
-			"replace":
-			{
-				"height": 64.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_symbol":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"show_minimap": true,
-			"show_open_files": true,
-			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 211.0,
-			"status_bar_visible": true,
-			"template_settings":
-			{
-			}
-		},
-		"new_window_width": 1195.0
-	},
-	"windows":
-	[
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
-					[
-						"sig_cla",
-						"sig_class_id"
-					],
-					[
-						"alert",
-						"alert_match"
-					],
-					[
-						"pro",
-						"protocol"
-					],
-					[
-						"source",
-						"source_ip"
-					]
-				]
-			},
-			"buffers":
-			[
-				{
-					"file": "/Users/splug/Repos/shutterstock/macinvader/sql/migrate/01_create_devices.rb",
-					"settings":
-					{
-						"buffer_size": 509,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/splug/Repos/shutterstock/macinvader/sql/migrate/02_create_users.rb",
-					"settings":
-					{
-						"buffer_size": 263,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/splug/Repos/shutterstock/macinvader/sql/migrate/03_create_assignments.rb",
-					"settings":
-					{
-						"buffer_size": 263,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/splug/Repos/shutterstock/macinvader/sql/migrate/04_create_device_details.rb",
-					"settings":
-					{
-						"buffer_size": 296,
-						"line_ending": "Unix",
-						"name": "class CreateAssignments < ActiveRecord::Migration"
-					}
-				},
-				{
-					"file": "/Users/splug/Repos/shutterstock/macinvader/sql/migrate/06_create_device_firmware.rb",
-					"settings":
-					{
-						"buffer_size": 243,
-						"line_ending": "Unix"
-					}
-				}
-			],
 			"build_system": "Packages/User/PHP.sublime-build",
 			"command_palette":
 			{
@@ -504,6 +156,7 @@
 			},
 			"file_history":
 			[
+				"/Users/splug/Repos/shutterstock/macinvader/sql/migrate/01_create_devices.rb",
 				"/Users/splug/Repos/shutterstock/macinvader/sql/migrate/06_create_device_firmware.rb",
 				"/Users/splug/Repos/shutterstock/macinvader/sql/migrate/03_create_events.rb",
 				"/Users/splug/Repos/shutterstock/macinvader/sql/migrate/01_create_devices.rbe",
@@ -603,11 +256,355 @@
 				"whole_word": false,
 				"wrap": true
 			},
+			"incremental_find":
+			{
+				"height": 22.0
+			},
+			"input":
+			{
+				"height": 30.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 156.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.sftp":
+			{
+				"height": 94.0
+			},
+			"replace":
+			{
+				"height": 40.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 211.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 829.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"sig_cla",
+						"sig_class_id"
+					],
+					[
+						"alert",
+						"alert_match"
+					],
+					[
+						"pro",
+						"protocol"
+					],
+					[
+						"source",
+						"source_ip"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/splug/Repos/shutterstock/macinvader/clients/invader.py",
+					"settings":
+					{
+						"buffer_size": 3873,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "# sudo system_profiler SPHardwareDataType SPSoftwareDataType SPNetworkDataType SPInstallHistoryDataType SPManagedClientDataType\nmodule MacInvader\n  class App\n    after '/device/*', :provides => :json do; end\n\n    post '/device/register' do\n      begin\n        validate_param_presence 'serial_number', 'primary_mac_address'\n        primary_mac_address = params.delete('primary_mac_address').downcase.strip\n        serial_number = params.delete('serial_number').downcase.strip\n\n        device = MacInvader::Device.where(:primary_mac_address => primary_mac_address, :serial_number => serial_number).first\n        if device.nil?\n          device = MacInvader::Device.new(:serial_number => serial_number, :primary_mac_address => primary_mac_address)\n          logger.info \"[NDR] New device found: #{device.serial_number} #{device.primary_mac_address}\"\n        end\n\n        event = MacInvader::Event.where(:message\n          \n        event.save!\n\n        device.hw_uuid = params.delete('hardware_uuid')\n        device.machine_model = params.delete('machine_model')\n        device.machine_make = params.delete('machine_make')\n        device.machine_name = params.delete('machine_name')\n        device.cpu_type = params.delete('cpu_type')\n        device.cpu_speed = params.delete('cpu_speed')\n        device.physical_memory = params.delete('physical_memory')\n        device.os_version = params.delete('os_version')\n        device.os_build = params.delete('os_build')   \n        device.added_date = Time.now\n\n        device.save!\n        logger.info \"[DSR] Device successfully added: #{device.serial_number} #{device.primary_mac_address}\"\n\n        status 202\n\n      rescue ParamError => e\n        status 400\n        logger.error \"[ERR] Failure for #{device.serial_number} #{device.primary_mac_address}: #{e.to_s}\"\n        body({ :user_error => e.to_s }.to_json)\n      rescue Exception => e\n        status 500\n        logger.error \"[ERR] Failure for #{device.serial_number} #{device.primary_mac_address}: #{e.to_s}\"\n        body({ :server_error => e.to_s }.to_json)\n      end\n    end\n\n    post '/device/check_in' do\n      begin\n        validate_param_presence 'serial_number', 'primary_mac_address'\n        primary_mac_address = params.delete('primary_mac_address').downcase.strip\n        serial_number = params.delete('serial_number').downcase.strip\n\n        device = MacInvader::Device.where(:primary_mac_address => primary_mac_address, :serial_number => serial_number).first\n        if device.nil?\n          logger.info \"[DNR] Non-existant device attempting to check in: #{serial_number}\"\n          redirect \"/device/register\", 307\n        end\n        logger.info \"[DCI] Device checking in: #{device.serial_number} #{device.primary_mac_address}\"\n\n        device.hw_uuid = params.delete('hardware_uuid')\n        device.machine_model = params.delete('machine_model')\n        device.machine_make = params.delete('machine_make')\n        device.machine_name = params.delete('machine_name')\n        device.cpu_type = params.delete('cpu_type')\n        device.cpu_speed = params.delete('cpu_speed')\n        device.physical_memory = params.delete('physical_memory')\n        device.os_version = params.delete('os_version')\n        device.os_build = params.delete('os_build')   \n        device.added_date = Time.now\n\n        device.save!\n        logger.info \"[CIC] Device check-in successful: #{device.serial_number} #{device.primary_mac_address}\"\n\n      rescue ParamError => e\n        status 400\n        logger.error \"[ERR] Failure for #{device.serial_number} #{device.primary_mac_address}: #{e.to_s}\"\n        body({ :user_error => e.to_s }.to_json)\n      rescue Exception => e\n        status 500\n        logger.error \"[ERR] Failure for #{device.serial_number} #{device.primary_mac_address}: #{e.to_s}\"\n        body({ :server_error => e.to_s }.to_json)\n      end\n    end\n\n  end\nend\n",
+					"file": "/Users/splug/Repos/shutterstock/macinvader/routes/api.rb",
+					"file_size": 3882,
+					"file_write_time": 130459694750000000,
+					"settings":
+					{
+						"buffer_size": 3865,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/splug/Repos/shutterstock/macinvader/sql/migrate/03_create_assignments.rb",
+					"settings":
+					{
+						"buffer_size": 263,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/splug/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 259,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "Packages/Python/Python.sublime-build",
+			"command_palette":
+			{
+				"height": 267.0,
+				"selected_items":
+				[
+					[
+						"prev",
+						"GitHub Flavored Markdown: Preview"
+					],
+					[
+						"marko",
+						"MarkdownLive: Reload Server"
+					],
+					[
+						"Markdown",
+						"MarkdownLive: Reload Server"
+					],
+					[
+						"markdo",
+						"Preferences: Markmon Key Bindings – User"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"previ",
+						"GitHub Flavored Markdown: Preview"
+					],
+					[
+						"mark",
+						"Set Syntax: MultiMarkdown"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"ruby",
+						"Set Syntax: Ruby"
+					],
+					[
+						"syntax",
+						"Set Syntax: Python"
+					],
+					[
+						"",
+						"Set Syntax: PHP"
+					],
+					[
+						"blame",
+						"GitHub Flavored Markdown: Preview"
+					],
+					[
+						"git",
+						"GitGutter: Show Comparing Against"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"githu",
+						"GitHub Flavored Markdown: Preview"
+					],
+					[
+						"isnta",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 593.0
+			},
+			"console":
+			{
+				"height": 241.0,
+				"history":
+				[
+					"clear()",
+					"clear",
+					"call(\"echo Hello World\", shell=True)  ",
+					"print call(\"echo Hello World\", shell=True)  ",
+					"return_code = call(\"echo Hello World\", shell=True)  ",
+					"os.system(\"php -i\")",
+					"import os; os.system(\"php -i\")",
+					"os.system(\"php -i\")",
+					"call([\"php\", \"-i\"])",
+					"call([\"php\", \"-l\"])",
+					"call([\"php\", \"-l\")",
+					"call([\"ls\", \"-l\"])",
+					"from subprocess import call",
+					"php -l",
+					"exit()",
+					"exit",
+					"sys.exec('sudo ./oink.py')",
+					"exec sudo oink.py",
+					"exec",
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+					" import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/splug/Repos/shutterstock/macinvader/models/device.rb",
+				"/Users/splug/Repos/shutterstock/macinvader/sql/migrate/06_create_device_firmware.rb",
+				"/Users/splug/Repos/shutterstock/macinvader/sql/migrate/03_create_events.rb",
+				"/Users/splug/Repos/shutterstock/macinvader/sql/migrate/01_create_devices.rbe",
+				"/Users/splug/Repos/shutterstock/macinvader/config/databases.yaml",
+				"/Users/splug/Repos/shutterstock/macinvader/lib/attributes_to_liquid_methods_mapper.rb",
+				"/Users/splug/Repos/rockethome/www/public/index.html",
+				"/Users/splug/Repos/rockethome/www/public/css/style.css",
+				"/Users/splug/Repos/github/rocketframework/composer.json",
+				"/Users/splug/Repos/shutterstock/macinvader/mi.css",
+				"/Users/splug/Downloads/our-boxen-master/vendor/puppet/cache/boxen-puppet-nginx-b1e3273/manifests/init.pp",
+				"/Users/splug/Downloads/our-boxen-master/manifests/site.pp",
+				"/Users/splug/Library/Application Support/Sublime Text 3/Packages/User/dTR-mdp.py",
+				"/Users/splug/Repos/github/transmission/views/layout.erb",
+				"/Users/splug/Repos/github/transmission/routes/messages.rb",
+				"/Users/splug/Repos/github/transmission/views/message.erb",
+				"/Users/splug/Repos/github/transmission/transmission.rb",
+				"/Users/splug/Repos/github/transmission/routes/account.rb",
+				"/Users/splug/Repos/github/transmission/views/message_auth.erb",
+				"/Users/splug/Repos/github/transmission/views/messages.erb",
+				"/Users/splug/Repos/github/transmission/views/send.erb",
+				"/Users/splug/Repos/github/transmission/views/login.erb",
+				"/Users/splug/Repos/github/transmission/views/signup.erb",
+				"/Users/splug/Repos/github/transmission/layout.erb",
+				"/Users/splug/Repos/github/transmission/views/index.erb",
+				"/Users/splug/Repos/github/net-ssh/test/test_key_factory.rb",
+				"/Users/splug/Repos/github/net-ssh/lib/net/ssh/key_factory.rb",
+				"/Users/splug/Repos/github/transmission/helpers/system.rb",
+				"/Users/mmackintosh/Desktop/desktop_sutff.mdown",
+				"/Users/mmackintosh/Desktop/ssl stuff.md",
+				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/mmackintosh/Desktop/sdm_shuttercorp_net(1).pem",
+				"/Users/mmackintosh/repos/shutterstock/puppet/src/manifests/nodes/shuttercorp/ma01/prod-wordpress01.pp",
+				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Packages/nginx/Syntaxes/nginx.tmLanguage",
+				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Packages/nginx/Examples/nginx.conf",
+				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Installed Packages/nginx.sublime-package",
+				"/Users/mmackintosh/Desktop/netscan.sh",
+				"/Users/mmackintosh/Desktop/# Old Files/slax/Event Scripts/Disable Interface/disable-interface.slax",
+				"/Users/mmackintosh/repos/shutterstock/snort-rules/snort.conf",
+				"/Users/mmackintosh/Desktop/# Old Files/slax/Event Scripts/DynDNS/dyn-dns-update.xslt",
+				"/Users/mmackintosh/repos/github/Rocket/DB/table.php",
+				"/Users/mmackintosh/repos/github/Rocket/DB/database.php",
+				"/Users/mmackintosh/repos/github/Rocket/autorun",
+				"/Users/mmackintosh/repos/github/Rocket/DB/config.php",
+				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Packages/User/SolarizedToggle.sublime-settings",
+				"/Users/mmackintosh/Desktop/app.php",
+				"/Users/mmackintosh/sites/splug.io/posts/02-sort-ips-with-bash.md",
+				"/Users/mmackintosh/projects/sites/tophat/bin/log_importer",
+				"/Users/mmackintosh/projects/utils/oink/oink.py",
+				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Packages/Alignment/Default (OSX).sublime-keymap",
+				"/Users/mmackintosh/projects/utils/oink/config.yaml",
+				"/Users/mmackintosh/projects/utils/oink/test.sh",
+				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/Users/mmackintosh/sites/splug.io/index.php",
+				"/Users/mmackintosh/sites/splug.io/app.php",
+				"/Users/mmackintosh/Desktop/junos.php",
+				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Packages/User/PHP.sublime-build",
+				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Packages/User/Python - Sudo .sublime-build",
+				"/Users/mmackintosh/projects/utils/oink/README.md",
+				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Cache/Solarized Color Scheme/Solarized (dark).tmTheme.cache",
+				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Installed Packages/Theme - Soda SolarizedDark.sublime-package",
+				"/Users/mmackintosh/Desktop/a.php",
+				"/Users/mmackintosh/Desktop/rapidresponse.md"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"serial",
+					"serial ",
+					"serial",
+					"());",
+					"^",
+					"try",
+					"count"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"#"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
 			"folders":
 			[
 				{
 					"follow_symlinks": true,
-					"path": "/Users/splug/Repos/shutterstock/macinvader/sql/migrate"
+					"path": "/Users/splug/Repos/shutterstock/macinvader"
 				}
 			],
 			"groups":
@@ -618,19 +615,19 @@
 					[
 						{
 							"buffer": 0,
-							"file": "/Users/splug/Repos/shutterstock/macinvader/sql/migrate/01_create_devices.rb",
+							"file": "/Users/splug/Repos/shutterstock/macinvader/clients/invader.py",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 509,
+								"buffer_size": 3873,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										444,
-										444
+										1514,
+										1514
 									]
 								],
 								"settings":
@@ -638,12 +635,11 @@
 									"incomplete_sync": null,
 									"remote_loading": false,
 									"synced": false,
-									"syntax": "Packages/Ruby/Ruby.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
+									"syntax": "Packages/Python/Python.tmLanguage",
+									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 365.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
@@ -651,115 +647,19 @@
 						},
 						{
 							"buffer": 1,
-							"file": "/Users/splug/Repos/shutterstock/macinvader/sql/migrate/02_create_users.rb",
+							"file": "/Users/splug/Repos/shutterstock/macinvader/routes/api.rb",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 263,
+								"buffer_size": 3865,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										156,
-										156
-									]
-								],
-								"settings":
-								{
-									"incomplete_sync": null,
-									"remote_loading": false,
-									"synced": false,
-									"syntax": "Packages/Ruby/Ruby.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 4,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/Users/splug/Repos/shutterstock/macinvader/sql/migrate/03_create_assignments.rb",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 263,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										142,
-										142
-									]
-								],
-								"settings":
-								{
-									"incomplete_sync": null,
-									"remote_loading": false,
-									"synced": false,
-									"syntax": "Packages/Ruby/Ruby.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 3,
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "/Users/splug/Repos/shutterstock/macinvader/sql/migrate/04_create_device_details.rb",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 296,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"auto_name": "class CreateAssignments < ActiveRecord::Migration",
-									"incomplete_sync": null,
-									"syntax": "Packages/Ruby/Ruby.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 4,
-							"file": "/Users/splug/Repos/shutterstock/macinvader/sql/migrate/06_create_device_firmware.rb",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 243,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										188,
-										188
+										919,
+										919
 									]
 								],
 								"settings":
@@ -776,6 +676,70 @@
 								"zoom_level": 1.0
 							},
 							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/Users/splug/Repos/shutterstock/macinvader/sql/migrate/03_create_assignments.rb",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 263,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/Ruby/Ruby.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/Users/splug/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 259,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										235,
+										235
+									]
+								],
+								"settings":
+								{
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/JavaScript/JSON.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
 							"type": "text"
 						}
 					]
@@ -824,7 +788,7 @@
 			{
 				"height": 94.0
 			},
-			"position": "491 88 829 790 0 0 1440 878 ",
+			"position": "184 88 1050 790 0 0 1440 878 ",
 			"project": "",
 			"replace":
 			{
@@ -867,7 +831,7 @@
 			"template_settings":
 			{
 			},
-			"window_id": 36,
+			"window_id": 42,
 			"workspace_name": ""
 		}
 	],
