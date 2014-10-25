@@ -1,14 +1,23 @@
 {
-	"color_scheme": "Packages/Solarized Color Scheme/Solarized (dark).tmTheme",
+	"color_scheme": "Packages/Theme - Default/Venom.tmTheme",
 	"extract_sublime_package_ask_on_open": true,
-	"font_size": 11,
+	"font_face": "Ubuntu Mono",
+	"font_options":
+	[
+		"no_antialias"
+	],
+	"font_size": 13,
 	"ignored_packages":
 	[
-		"Vintage"
+		"GitHub Flavored Markdown Preview",
+		"Vintage",
+		"Puppet"
 	],
-	"font_options":
-    [
-        "no_antialias"
-    ],
-	"spell_check": true
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"soda_folder_icons": true,
+	"spell_check": true,
+	"tab_size": 4,
+	"theme": "Spacefunk (Blue Monday).sublime-theme",
+	"translate_tabs_to_spaces": true
 }

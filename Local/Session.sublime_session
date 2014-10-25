@@ -1,8 +1,75 @@
 {
 	"folder_history":
 	[
-		"/Users/splug/Repos/shutterstock/macinvader",
+		"/Users/splug/Repos/shutterstock/puppet",
+		"/Users/splug/Repos/rockethome/chef",
+		"/Users/splug/Repos/github/cdm",
+		"/Users/splug/Repos/shutterstock/puppet/src/modules/roles/manifests/base/firewall",
+		"/Users/splug/Dropbox (Personal)/Designs/webarch/webarch/HTML/assets/js",
+		"/Users/splug/Repos/shutterstock/puppet/src/modules/roles/manifests/sdm",
+		"/Users/splug/Repos/sixeightzero/oa",
+		"/Users/splug/ctos/cli",
+		"/Users/splug/Repos/shutterstock/security-autopwn",
+		"/Users/splug/Repos/shutterstock/people",
+		"/Users/splug/Repos/shutterstock/sdm-puppet",
+		"/Users/splug/baker",
+		"/Users/splug/ctos/cli/titan",
+		"/Users/splug/Repos/splug/mackfamily",
+		"/Users/splug/Repos/shutterstock/master-blaster-agent",
+		"/Users/splug/Repos/shutterstock/master_blaster_code_rage",
+		"/Users/splug/Repos/github/xssver",
+		"/Users/splug/Downloads/youropticalshop-com-myshopify-com-clean-theme-go-build",
 		"/Users/splug",
+		"/Users/splug/Repos/shutterstock/puppet/src/modules/roles/manifests/autopwn_iptables",
+		"/Users/splug/Repos/shutterstock/security-iptables",
+		"/Users/splug/Repos/shutterstock/macinvader",
+		"/Users/splug/Repos/github/titan-tools",
+		"/Users/splug/Repos/github/BakeryFramework2",
+		"/Users/splug/Repos/github/testbakeryapp",
+		"/Users/splug/Repos/github/ddv",
+		"/Users/splug/Repos/rockethome/chef/site-cookbooks/users",
+		"/Users/splug/Repos/shutterstock/mcollective-plugins",
+		"/Users/splug/Repos/shutterstock/mcollective-plugins/iptables",
+		"/Users/splug/rdm",
+		"/Users/splug/Repos/shutterstock",
+		"/Users/splug/Repos/shutterstock/openvpn-auth-ldap-read-only",
+		"/Users/splug/Repos/shutterstock/ragevpn",
+		"/Users/splug/Repos/shutterstock/puppet/src/modules/roles/manifests/autopwn",
+		"/Users/splug/Repos/shutterstock/puppet/src/manifests",
+		"/Users/splug/Repos/shutterstock/puppet/src/modules/roles/manifests",
+		"/Users/splug/Repos/sixeightzero/wordpress/public_html",
+		"/Users/splug/Repos/sixeightzero/wordpress",
+		"/Users/splug/Repos/shutterstock/shuttermap",
+		"/Users/splug/Repos/shutterstock/people/test",
+		"/Users/splug/Repos/kn0x/Shellshock/messages",
+		"/Users/splug/Repos/kn0x/demo",
+		"/Users/splug/Repos/github/titan",
+		"/Users/splug/Repos/rockethome/chef/site-cookbooks/nginx",
+		"/Users/splug/Repos/shutterstock/grumpycatftw",
+		"/Users/splug/Repos/shutterstock/ftf/level01",
+		"/Users/splug/Repos/shutterstock/ftf/level02",
+		"/Users/splug/Repos/shutterstock/firewall-policy-tests",
+		"/Users/splug/Repos/shutterstock/ftf",
+		"/Users/splug/Repos/shutterstock/ftf/level01/test",
+		"/Users/splug/Repos/rockethome/launchpad",
+		"/Users/splug/Repos/shutterstock/ojos",
+		"/Users/splug/Repos/sixeightzero/wordpress/public_html/wp-content/plugins",
+		"/Users/splug/Repos/github/titan/modules",
+		"/Users/splug/Repos/github/titan-tools/python",
+		"/Users/splug/Repos/rockethome/chef/cookbooks/gitlab",
+		"/Users/splug/Repos/rockethome/chef/cookbooks/motd",
+		"/Users/splug/Repos/github/titan/modules/check-ca-certificates",
+		"/Users/splug/Repos/github/titan/modules/ca-cert-check",
+		"/Users/splug/Repos/github/titan/modules/git-repositories",
+		"/Users/splug/Repos/github/titan/modules/installed-applications",
+		"/Users/splug/Repos/github/titan/modules/analyze-ssh-keys",
+		"/Users/splug/Repos/github/titan/modules/installed_applications",
+		"/Users/splug/Repos/github/titan-tools/python/titantools",
+		"/Users/splug/Repos/rockethome/chef/cookbooks",
+		"/Users/splug/Repos/shutterstock/shutterstock-autoban-ban",
+		"/Users/splug/Repos/shutterstock/sdm-puppet/modules",
+		"/Users/splug/Repos/shutterstock/mcollective-plugins/openssl/agent",
+		"/Users/splug/Repos/github/Invader",
 		"/Users/splug/Repos/shutterstock/macinvader/routes",
 		"/Users/splug/Repos/shutterstock/macinvader/sql/migrate",
 		"/Users/splug/Repos/shutterstock/macinvader/models",
@@ -12,12 +79,12 @@
 		"/Users/mmackintosh/Desktop/rockethome pro/frontend",
 		"/Users/mmackintosh/.dotfiles"
 	],
-	"last_version": 3059,
-	"last_window_id": 41,
+	"last_version": 3065,
+	"last_window_id": 298,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 856.0,
+		"new_window_height": 785.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -25,309 +92,429 @@
 				"selected_items":
 				[
 					[
-						"sig_cla",
-						"sig_class_id"
+						"event",
+						"eventgroup"
 					],
 					[
-						"alert",
-						"alert_match"
+						"deleted",
+						"deleted_keys"
 					],
 					[
-						"pro",
-						"protocol"
+						"page",
+						"page_id"
 					],
 					[
-						"source",
-						"source_ip"
-					]
-				]
-			},
-			"build_system": "Packages/Python/Python.sublime-build",
-			"command_palette":
-			{
-				"height": 267.0,
-				"selected_items":
-				[
-					[
-						"prev",
-						"GitHub Flavored Markdown: Preview"
+						"family_m",
+						"family_members"
 					],
 					[
-						"marko",
-						"MarkdownLive: Reload Server"
+						"fa",
+						"family_member"
 					],
 					[
-						"Markdown",
-						"MarkdownLive: Reload Server"
+						"da",
+						"date_created"
 					],
 					[
-						"markdo",
-						"Preferences: Markmon Key Bindings – User"
+						"text-",
+						"text-align"
 					],
 					[
-						"instal",
-						"Package Control: Install Package"
+						"form",
+						"formData"
+					],
+					[
+						"album",
+						"album"
+					],
+					[
+						"is_in",
+						"is_int"
+					],
+					[
+						"al",
+						"album_name"
+					],
+					[
+						"alb",
+						"album_date"
+					],
+					[
+						"albu",
+						"album_date"
+					],
+					[
+						"padd",
+						"padding"
+					],
+					[
+						"margin",
+						"margin"
+					],
+					[
+						"margin-",
+						"margin-bottom"
+					],
+					[
+						"session",
+						"session_destroy"
+					],
+					[
+						"tab",
+						"table_name"
+					],
+					[
+						"sche",
+						"schema_meta"
+					],
+					[
+						"new",
+						"new_schema"
+					],
+					[
+						"auth",
+						"auth_adapter"
+					],
+					[
+						"addre",
+						"address_string"
+					],
+					[
+						"T",
+						"TIMEOUT"
+					],
+					[
+						"requ",
+						"requests"
+					],
+					[
+						"set",
+						"set_error_handler"
+					],
+					[
+						"parse",
+						"parse_ini_file"
+					],
+					[
+						"auto",
+						"autopwn_iptables"
+					],
+					[
+						"padding",
+						"padding-left"
+					],
+					[
+						"succ",
+						"successes"
+					],
+					[
+						"module_t",
+						"module_data"
+					],
+					[
+						"module",
+						"module_data"
+					],
+					[
+						"aut",
+						"audit_date"
+					],
+					[
+						"pre",
+						"prepared_values"
+					],
+					[
+						"getTable",
+						"getTableSchema"
+					],
+					[
+						"json_",
+						"json_encode"
+					],
+					[
+						"get_curr",
+						"get_current_site"
+					],
+					[
+						"pos",
+						"post_id"
+					],
+					[
+						"rol",
+						"role_key"
+					],
+					[
+						"monitor",
+						"monitor_count"
+					],
+					[
+						"remove",
+						"removeClass"
+					],
+					[
+						"tabl",
+						"table-responsive"
+					],
+					[
+						"table",
+						"table-bordered"
+					],
+					[
+						"cel",
+						"cellpadding"
+					],
+					[
+						"mo",
+						"module_data"
+					],
+					[
+						"monit",
+						"monitors"
+					],
+					[
+						"moni",
+						"monitor_path"
+					],
+					[
+						"sh",
+						"shell_out"
 					],
 					[
 						"in",
-						"Package Control: Install Package"
+						"install_date"
 					],
 					[
-						"previ",
-						"GitHub Flavored Markdown: Preview"
+						"monito",
+						"monitor_name"
 					],
 					[
-						"mark",
-						"Set Syntax: MultiMarkdown"
+						"sys",
+						"system"
 					],
 					[
-						"install",
-						"Package Control: Install Package"
+						"data",
+						"database"
 					],
 					[
-						"ruby",
-						"Set Syntax: Ruby"
+						"sele",
+						"selected_appts"
 					],
 					[
-						"syntax",
-						"Set Syntax: Python"
+						"meta",
+						"meta_value"
 					],
 					[
-						"",
-						"Set Syntax: PHP"
+						"app",
+						"appointment"
 					],
 					[
-						"blame",
-						"GitHub Flavored Markdown: Preview"
+						"term_",
+						"term_id"
 					],
 					[
-						"git",
-						"GitGutter: Show Comparing Against"
+						"strip",
+						"strip_tags"
 					],
 					[
-						"insta",
-						"Package Control: Install Package"
+						"fi",
+						"field_types"
 					],
 					[
-						"githu",
-						"GitHub Flavored Markdown: Preview"
+						"event_boo",
+						"event_booking_id"
 					],
 					[
-						"isnta",
-						"Package Control: Install Package"
-					]
-				],
-				"width": 593.0
-			},
-			"console":
-			{
-				"height": 126.0,
-				"history":
-				[
-					"call(\"echo Hello World\", shell=True)  ",
-					"print call(\"echo Hello World\", shell=True)  ",
-					"return_code = call(\"echo Hello World\", shell=True)  ",
-					"os.system(\"php -i\")",
-					"import os; os.system(\"php -i\")",
-					"os.system(\"php -i\")",
-					"call([\"php\", \"-i\"])",
-					"call([\"php\", \"-l\"])",
-					"call([\"php\", \"-l\")",
-					"call([\"ls\", \"-l\"])",
-					"from subprocess import call",
-					"php -l",
-					"exit()",
-					"exit",
-					"sys.exec('sudo ./oink.py')",
-					"exec sudo oink.py",
-					"exec",
-					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
-					" import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
-				]
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"file_history":
-			[
-				"/Users/splug/Repos/shutterstock/macinvader/clients/invader.py",
-				"/Users/splug/Repos/shutterstock/macinvader/routes/api.rb",
-				"/Users/splug/Repos/shutterstock/macinvader/sql/migrate/06_create_device_firmware.rb",
-				"/Users/splug/Repos/shutterstock/macinvader/sql/migrate/03_create_events.rb",
-				"/Users/splug/Repos/shutterstock/macinvader/sql/migrate/01_create_devices.rbe",
-				"/Users/splug/Repos/shutterstock/macinvader/config/databases.yaml",
-				"/Users/splug/Repos/shutterstock/macinvader/lib/attributes_to_liquid_methods_mapper.rb",
-				"/Users/splug/Repos/rockethome/www/public/index.html",
-				"/Users/splug/Repos/rockethome/www/public/css/style.css",
-				"/Users/splug/Repos/github/rocketframework/composer.json",
-				"/Users/splug/Repos/shutterstock/macinvader/mi.css",
-				"/Users/splug/Downloads/our-boxen-master/vendor/puppet/cache/boxen-puppet-nginx-b1e3273/manifests/init.pp",
-				"/Users/splug/Downloads/our-boxen-master/manifests/site.pp",
-				"/Users/splug/Library/Application Support/Sublime Text 3/Packages/User/dTR-mdp.py",
-				"/Users/splug/Repos/github/transmission/views/layout.erb",
-				"/Users/splug/Repos/github/transmission/routes/messages.rb",
-				"/Users/splug/Repos/github/transmission/views/message.erb",
-				"/Users/splug/Repos/github/transmission/transmission.rb",
-				"/Users/splug/Repos/github/transmission/routes/account.rb",
-				"/Users/splug/Repos/github/transmission/views/message_auth.erb",
-				"/Users/splug/Repos/github/transmission/views/messages.erb",
-				"/Users/splug/Repos/github/transmission/views/send.erb",
-				"/Users/splug/Repos/github/transmission/views/login.erb",
-				"/Users/splug/Repos/github/transmission/views/signup.erb",
-				"/Users/splug/Repos/github/transmission/layout.erb",
-				"/Users/splug/Repos/github/transmission/views/index.erb",
-				"/Users/splug/Repos/github/net-ssh/test/test_key_factory.rb",
-				"/Users/splug/Repos/github/net-ssh/lib/net/ssh/key_factory.rb",
-				"/Users/splug/Repos/github/transmission/helpers/system.rb",
-				"/Users/mmackintosh/Desktop/desktop_sutff.mdown",
-				"/Users/mmackintosh/Desktop/ssl stuff.md",
-				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
-				"/Users/mmackintosh/Desktop/sdm_shuttercorp_net(1).pem",
-				"/Users/mmackintosh/repos/shutterstock/puppet/src/manifests/nodes/shuttercorp/ma01/prod-wordpress01.pp",
-				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Packages/nginx/Syntaxes/nginx.tmLanguage",
-				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Packages/nginx/Examples/nginx.conf",
-				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Installed Packages/nginx.sublime-package",
-				"/Users/mmackintosh/Desktop/netscan.sh",
-				"/Users/mmackintosh/Desktop/# Old Files/slax/Event Scripts/Disable Interface/disable-interface.slax",
-				"/Users/mmackintosh/repos/shutterstock/snort-rules/snort.conf",
-				"/Users/mmackintosh/Desktop/# Old Files/slax/Event Scripts/DynDNS/dyn-dns-update.xslt",
-				"/Users/mmackintosh/repos/github/Rocket/DB/table.php",
-				"/Users/mmackintosh/repos/github/Rocket/DB/database.php",
-				"/Users/mmackintosh/repos/github/Rocket/autorun",
-				"/Users/mmackintosh/repos/github/Rocket/DB/config.php",
-				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Packages/User/SolarizedToggle.sublime-settings",
-				"/Users/mmackintosh/Desktop/app.php",
-				"/Users/mmackintosh/sites/splug.io/posts/02-sort-ips-with-bash.md",
-				"/Users/mmackintosh/projects/sites/tophat/bin/log_importer",
-				"/Users/mmackintosh/projects/utils/oink/oink.py",
-				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Packages/Alignment/Default (OSX).sublime-keymap",
-				"/Users/mmackintosh/projects/utils/oink/config.yaml",
-				"/Users/mmackintosh/projects/utils/oink/test.sh",
-				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
-				"/Users/mmackintosh/sites/splug.io/index.php",
-				"/Users/mmackintosh/sites/splug.io/app.php",
-				"/Users/mmackintosh/Desktop/junos.php",
-				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Packages/User/PHP.sublime-build",
-				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Packages/User/Python - Sudo .sublime-build",
-				"/Users/mmackintosh/projects/utils/oink/README.md",
-				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Cache/Solarized Color Scheme/Solarized (dark).tmTheme.cache",
-				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Installed Packages/Theme - Soda SolarizedDark.sublime-package",
-				"/Users/mmackintosh/Desktop/a.php",
-				"/Users/mmackintosh/Desktop/rapidresponse.md"
-			],
-			"find":
-			{
-				"height": 22.0
-			},
-			"find_in_files":
-			{
-				"height": 0.0,
-				"where_history":
-				[
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": false,
-				"find_history":
-				[
-					"      t.string :(.*)",
-					"());",
-					"^",
-					"try",
-					"count"
-				],
-				"highlight": true,
-				"in_selection": true,
-				"preserve_case": false,
-				"regex": true,
-				"replace_history":
-				[
-					"        device.$1 = params.delete('$1')",
-					"#"
-				],
-				"reverse": false,
-				"show_context": true,
-				"use_buffer2": true,
-				"whole_word": false,
-				"wrap": true
-			},
-			"incremental_find":
-			{
-				"height": 22.0
-			},
-			"input":
-			{
-				"height": 30.0
-			},
-			"menu_visible": true,
-			"output.exec":
-			{
-				"height": 282.0
-			},
-			"output.find_results":
-			{
-				"height": 0.0
-			},
-			"output.sftp":
-			{
-				"height": 94.0
-			},
-			"replace":
-			{
-				"height": 64.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_symbol":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"show_minimap": true,
-			"show_open_files": true,
-			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 211.0,
-			"status_bar_visible": true,
-			"template_settings":
-			{
-			}
-		},
-		"new_window_width": 1195.0
-	},
-	"windows":
-	[
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
+						"tax",
+						"taxonomy_terms"
+					],
+					[
+						"appoi",
+						"appointments"
+					],
+					[
+						"book",
+						"booking"
+					],
+					[
+						"long",
+						"longitude"
+					],
+					[
+						"ob_e",
+						"ob_end_clean"
+					],
+					[
+						"inline",
+						"inline-block"
+					],
+					[
+						"column",
+						"column_name"
+					],
+					[
+						"funct",
+						"func_get_args"
+					],
+					[
+						"term",
+						"term_meta"
+					],
+					[
+						"get_defin",
+						"get_defined_vars"
+					],
+					[
+						"de",
+						"details"
+					],
+					[
+						"Check",
+						"Checkbox"
+					],
+					[
+						"chec",
+						"checked"
+					],
+					[
+						"att",
+						"attribute_name"
+					],
+					[
+						"req",
+						"required"
+					],
+					[
+						"inli",
+						"inline-block"
+					],
+					[
+						"attr",
+						"attr_details"
+					],
+					[
+						"attri",
+						"attribute"
+					],
+					[
+						"text",
+						"textarea	Tag"
+					],
+					[
+						"op",
+						"option	Tag"
+					],
+					[
+						"func_get",
+						"func_get_args"
+					],
+					[
+						"print",
+						"print_r"
+					],
+					[
+						"schema",
+						"schema_version"
+					],
+					[
+						"see",
+						"seed_data"
+					],
+					[
+						"debug",
+						"debug_backtrace"
+					],
+					[
+						"post",
+						"post_object"
+					],
+					[
+						"compr",
+						"compressed"
+					],
+					[
+						"gw",
+						"gwip"
+					],
+					[
+						"dg",
+						"dgw_ip"
+					],
+					[
+						"public",
+						"public_ip"
+					],
+					[
+						"is",
+						"isfile"
+					],
+					[
+						"ssh",
+						"ssh_keys"
+					],
+					[
+						"dat",
+						"datastore"
+					],
+					[
+						"sc",
+						"schema"
+					],
+					[
+						"finger",
+						"fingerprints"
+					],
+					[
+						"schem",
+						"schema_file"
+					],
+					[
+						"sstk",
+						"show_sstk"
+					],
+					[
+						"config",
+						"config_file"
+					],
+					[
+						"c",
+						"config_file"
+					],
+					[
+						"rep",
+						"repo_name"
+					],
+					[
+						"remote",
+						"remote_branches"
+					],
+					[
+						"branc",
+						"branches"
+					],
+					[
+						"MODUL",
+						"MODULE_PACKS"
+					],
+					[
+						"mod",
+						"mod_name"
+					],
+					[
+						"target",
+						"target_count"
+					],
+					[
+						"parse_",
+						"parse_url"
+					],
+					[
+						"array_key",
+						"array_key_exists"
+					],
+					[
+						"gethost",
+						"gethostbyname"
+					],
 					[
 						"sig_cla",
 						"sig_class_id"
@@ -346,58 +533,62 @@
 					]
 				]
 			},
-			"buffers":
-			[
-				{
-					"file": "/Users/splug/Repos/shutterstock/macinvader/sql/migrate/01_create_devices.rb",
-					"settings":
-					{
-						"buffer_size": 509,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/splug/Repos/shutterstock/macinvader/sql/migrate/02_create_users.rb",
-					"settings":
-					{
-						"buffer_size": 263,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/splug/Repos/shutterstock/macinvader/sql/migrate/03_create_assignments.rb",
-					"settings":
-					{
-						"buffer_size": 263,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/splug/Repos/shutterstock/macinvader/sql/migrate/04_create_device_details.rb",
-					"settings":
-					{
-						"buffer_size": 296,
-						"line_ending": "Unix",
-						"name": "class CreateAssignments < ActiveRecord::Migration"
-					}
-				},
-				{
-					"file": "/Users/splug/Repos/shutterstock/macinvader/sql/migrate/06_create_device_firmware.rb",
-					"settings":
-					{
-						"buffer_size": 243,
-						"line_ending": "Unix"
-					}
-				}
-			],
 			"build_system": "Packages/User/PHP.sublime-build",
 			"command_palette":
 			{
-				"height": 267.0,
+				"height": 89.0,
 				"selected_items":
 				[
 					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"json",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: Remove Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: List Packages"
+					],
+					[
+						"",
+						"DocBlockr: Decorate line comment"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"git",
+						"GitHub: View"
+					],
+					[
 						"prev",
+						"Pandoc: Render Markdown to temp HTML and View"
+					],
+					[
+						"previ",
 						"GitHub Flavored Markdown: Preview"
 					],
 					[
@@ -413,24 +604,8 @@
 						"Preferences: Markmon Key Bindings – User"
 					],
 					[
-						"instal",
-						"Package Control: Install Package"
-					],
-					[
-						"in",
-						"Package Control: Install Package"
-					],
-					[
-						"previ",
-						"GitHub Flavored Markdown: Preview"
-					],
-					[
 						"mark",
 						"Set Syntax: MultiMarkdown"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
 					],
 					[
 						"ruby",
@@ -441,20 +616,8 @@
 						"Set Syntax: Python"
 					],
 					[
-						"",
-						"Set Syntax: PHP"
-					],
-					[
 						"blame",
 						"GitHub Flavored Markdown: Preview"
-					],
-					[
-						"git",
-						"GitGutter: Show Comparing Against"
-					],
-					[
-						"insta",
-						"Package Control: Install Package"
 					],
 					[
 						"githu",
@@ -465,13 +628,23 @@
 						"Package Control: Install Package"
 					]
 				],
-				"width": 593.0
+				"width": 601.0
 			},
 			"console":
 			{
-				"height": 126.0,
+				"height": 241.0,
 				"history":
 				[
+					"clear()",
+					"flush()",
+					"flush",
+					"clear",
+					"globals()",
+					"print(\"hello world\")",
+					"print \"hello world\"",
+					"print \"hello world:",
+					"clear()",
+					"clear",
 					"call(\"echo Hello World\", shell=True)  ",
 					"print call(\"echo Hello World\", shell=True)  ",
 					"return_code = call(\"echo Hello World\", shell=True)  ",
@@ -504,77 +677,142 @@
 			},
 			"file_history":
 			[
-				"/Users/splug/Repos/shutterstock/macinvader/sql/migrate/06_create_device_firmware.rb",
-				"/Users/splug/Repos/shutterstock/macinvader/sql/migrate/03_create_events.rb",
-				"/Users/splug/Repos/shutterstock/macinvader/sql/migrate/01_create_devices.rbe",
-				"/Users/splug/Repos/shutterstock/macinvader/config/databases.yaml",
-				"/Users/splug/Repos/shutterstock/macinvader/lib/attributes_to_liquid_methods_mapper.rb",
-				"/Users/splug/Repos/rockethome/www/public/index.html",
-				"/Users/splug/Repos/rockethome/www/public/css/style.css",
-				"/Users/splug/Repos/github/rocketframework/composer.json",
-				"/Users/splug/Repos/shutterstock/macinvader/mi.css",
-				"/Users/splug/Downloads/our-boxen-master/vendor/puppet/cache/boxen-puppet-nginx-b1e3273/manifests/init.pp",
-				"/Users/splug/Downloads/our-boxen-master/manifests/site.pp",
-				"/Users/splug/Library/Application Support/Sublime Text 3/Packages/User/dTR-mdp.py",
-				"/Users/splug/Repos/github/transmission/views/layout.erb",
-				"/Users/splug/Repos/github/transmission/routes/messages.rb",
-				"/Users/splug/Repos/github/transmission/views/message.erb",
-				"/Users/splug/Repos/github/transmission/transmission.rb",
-				"/Users/splug/Repos/github/transmission/routes/account.rb",
-				"/Users/splug/Repos/github/transmission/views/message_auth.erb",
-				"/Users/splug/Repos/github/transmission/views/messages.erb",
-				"/Users/splug/Repos/github/transmission/views/send.erb",
-				"/Users/splug/Repos/github/transmission/views/login.erb",
-				"/Users/splug/Repos/github/transmission/views/signup.erb",
-				"/Users/splug/Repos/github/transmission/layout.erb",
-				"/Users/splug/Repos/github/transmission/views/index.erb",
-				"/Users/splug/Repos/github/net-ssh/test/test_key_factory.rb",
-				"/Users/splug/Repos/github/net-ssh/lib/net/ssh/key_factory.rb",
-				"/Users/splug/Repos/github/transmission/helpers/system.rb",
-				"/Users/mmackintosh/Desktop/desktop_sutff.mdown",
-				"/Users/mmackintosh/Desktop/ssl stuff.md",
-				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
-				"/Users/mmackintosh/Desktop/sdm_shuttercorp_net(1).pem",
-				"/Users/mmackintosh/repos/shutterstock/puppet/src/manifests/nodes/shuttercorp/ma01/prod-wordpress01.pp",
-				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Packages/nginx/Syntaxes/nginx.tmLanguage",
-				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Packages/nginx/Examples/nginx.conf",
-				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Installed Packages/nginx.sublime-package",
-				"/Users/mmackintosh/Desktop/netscan.sh",
-				"/Users/mmackintosh/Desktop/# Old Files/slax/Event Scripts/Disable Interface/disable-interface.slax",
-				"/Users/mmackintosh/repos/shutterstock/snort-rules/snort.conf",
-				"/Users/mmackintosh/Desktop/# Old Files/slax/Event Scripts/DynDNS/dyn-dns-update.xslt",
-				"/Users/mmackintosh/repos/github/Rocket/DB/table.php",
-				"/Users/mmackintosh/repos/github/Rocket/DB/database.php",
-				"/Users/mmackintosh/repos/github/Rocket/autorun",
-				"/Users/mmackintosh/repos/github/Rocket/DB/config.php",
-				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Packages/User/SolarizedToggle.sublime-settings",
-				"/Users/mmackintosh/Desktop/app.php",
-				"/Users/mmackintosh/sites/splug.io/posts/02-sort-ips-with-bash.md",
-				"/Users/mmackintosh/projects/sites/tophat/bin/log_importer",
-				"/Users/mmackintosh/projects/utils/oink/oink.py",
-				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Packages/Alignment/Default (OSX).sublime-keymap",
-				"/Users/mmackintosh/projects/utils/oink/config.yaml",
-				"/Users/mmackintosh/projects/utils/oink/test.sh",
-				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
-				"/Users/mmackintosh/sites/splug.io/index.php",
-				"/Users/mmackintosh/sites/splug.io/app.php",
-				"/Users/mmackintosh/Desktop/junos.php",
-				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Packages/User/PHP.sublime-build",
-				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Packages/User/Python - Sudo .sublime-build",
-				"/Users/mmackintosh/projects/utils/oink/README.md",
-				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Cache/Solarized Color Scheme/Solarized (dark).tmTheme.cache",
-				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Installed Packages/Theme - Soda SolarizedDark.sublime-package",
-				"/Users/mmackintosh/Desktop/a.php",
-				"/Users/mmackintosh/Desktop/rapidresponse.md"
+				"/Users/splug/Desktop/cipher.sh",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/subusers/create.twig",
+				"/Users/splug/Repos/sixeightzero/oa/sql/events.sql",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/events/list.twig",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/events/create.twig",
+				"/Users/splug/Repos/sixeightzero/oa/lib/bakery/orm.php",
+				"/Users/splug/Repos/sixeightzero/oa/lib/bakery/record.php",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/events/groups/create.twig",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/users/create.twig",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/events/groups/list.twig",
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes/admin/eventgroups.php",
+				"/Users/splug/Repos/sixeightzero/oa/web/assets/js/core.js",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/layouts/sidebar.twig",
+				"/Users/splug/Repos/sixeightzero/oa/views/user/family.twig",
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes/admin/users.php",
+				"/Users/splug/Repos/sixeightzero/oa/sql/navigation.sql",
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes/admin/navigation.php",
+				"/Users/splug/Dropbox (Personal)/Designs/webarch/webarch/HTML/form_elements.html",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/settings/navigation/list.twig",
+				"/Users/splug/Repos/sixeightzero/oa/sql/event_groups.sql",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/layouts/main.twig",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/settings/list.twig",
+				"/Users/splug/Repos/sixeightzero/oa/views/layouts/main.twig",
+				"/Users/splug/Repos/sixeightzero/oa/views/login.twig",
+				"/Users/splug/Repos/sixeightzero/oa/web/css/themes/green.css",
+				"/Users/splug/Repos/sixeightzero/oa/.rock.yml",
+				"/Users/splug/Repos/sixeightzero/oa/web/js/switcher/switcher.css",
+				"/Users/splug/Repos/sixeightzero/oa/web/js/switcher/switcher.js",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/layouts/profile.twig",
+				"/Users/splug/Repos/sixeightzero/oa/web/js/switcher.js",
+				"/Users/splug/Repos/sixeightzero/oa/views/default.twig",
+				"/Users/splug/Repos/sixeightzero/oa/web/css/bootstrap.css",
+				"/Users/splug/Repos/sixeightzero/oa/web/css/style-pink.css",
+				"/Users/splug/Dropbox (Personal)/Mikes Backup/kn0x VPN/static.pem",
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes/admin/default.php",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/default.twig",
+				"/Users/splug/Repos/sixeightzero/oa/bootstrap.php",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/pages/create.twig",
+				"/Users/splug/Repos/sixeightzero/oa/web/assets/plugins/bootstrap-wysihtml5/bootstrap-wysihtml5.js",
+				"/Users/splug/Repos/sixeightzero/oa/web/assets/plugins/bootstrap-wysihtml5/wysihtml5-0.3.0.js",
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes/admin/subusers.php",
+				"/Users/splug/Repos/sixeightzero/oa/sql/people_medical.sql",
+				"/Users/splug/Repos/sixeightzero/oa/sql/people_insurance.sql",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/users/list.twig",
+				"/Users/splug/Repos/sixeightzero/oa/sql/locations.sql",
+				"/Users/splug/Repos/sixeightzero/oa/sql/bookings.sql",
+				"/Users/splug/Repos/sixeightzero/oa/sql/people_meta.sql",
+				"/Users/splug/Repos/sixeightzero/oa/sql/user_notes.sql",
+				"/Users/splug/Repos/sixeightzero/oa/sql/users.sql",
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes/user/family.php",
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes/admin/settings.php",
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes/admin/pages.php",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/pages/list.twig",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/pages.twig",
+				"/Users/splug/Repos/sixeightzero/oa/sql/settings.sql",
+				"/Users/splug/Repos/sixeightzero/oa/sql/pages.sql",
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes/user/profile.php",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/pages/categories/list.twig",
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes/admin/categories.php",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/pages/sidebar.twig",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/pages/categories/new.twig",
+				"/Users/splug/Library/Application Support/Sublime Text 3/Packages/PhpCodeGen/phpcodegen.sublime-settings",
+				"/Users/splug/Library/Application Support/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/pages/categories.twig",
+				"/Users/splug/Repos/sixeightzero/oa/sql/page_categories.sql",
+				"/Users/splug/Repos/sixeightzero/oa/views/page/default.twig",
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes/user/register.php",
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes/events.php",
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes/pages.php",
+				"/Users/splug/Repos/sixeightzero/oa/lib/bakery/auth/acl.php",
+				"/Users/splug/Repos/sixeightzero/oa/web/assets/js/dashboard.js",
+				"/Users/splug/Repos/sixeightzero/oa/web/assets/css/custom-icon-set.css",
+				"/Users/splug/Repos/sixeightzero/oa/views/user/profile.twig",
+				"/Users/splug/Repos/sixeightzero/oa/views/events/request.twig",
+				"/Users/splug/Repos/sixeightzero/oa/config.ini",
+				"/Users/splug/Repos/sixeightzero/oa/web/js/wizard.js",
+				"/Users/splug/Repos/sixeightzero/oa/views/user/subnav.twig",
+				"/Users/splug/Repos/sixeightzero/oa/web/js/validate.js",
+				"/Users/splug/Repos/sixeightzero/oa/web/js/bootstrap-wizard.js",
+				"/Users/splug/Repos/sixeightzero/oa/web/css/bootstrap-wizard.css",
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes/user.php",
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes/user/my.php",
+				"/Users/splug/Repos/sixeightzero/oa/views/user/register.twig",
+				"/Users/splug/Repos/sixeightzero/oa/web/css/bootstrapvalidator.css",
+				"/Users/splug/Repos/sixeightzero/oa/web/js/jquery.bootstrapvalidator.js",
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes/admin.php",
+				"/Users/splug/Desktop/cfssl.md",
+				"/Users/splug/ruby-net-ldap/ldap.rb",
+				"/Users/splug/ctos/cli/titan/monitors.py",
+				"/Users/splug/ctos/cli/titan/report.py",
+				"/Users/splug/ctos/cli/titan/watcher.py",
+				"/Users/splug/ctos/cli/titan/cli.py",
+				"/Users/splug/ctos/cli/test",
+				"/Users/splug/ctos/cli/titan/launcher.py",
+				"/Users/splug/ctos/cli/titan/usage.py",
+				"/Users/splug/ctos/cli/titan/config.py",
+				"/Users/splug/ctos/cli/README.md",
+				"/Users/splug/ctos/cli/plist/com.titan.runner.plist",
+				"/Users/splug/ctos/cli/setup.py",
+				"/Users/splug/ctos/cli/plist/com.titan.wifi.watcher.plist",
+				"/Users/splug/ctos/cli/plist/com.ctznosx.watcher.plist",
+				"/Users/splug/ctos/cli/scripts/ctznosx",
+				"/Users/splug/ctos/cli/scripts/ctznosx-watcher",
+				"/Users/splug/ctos/cli/plist/com.titan.dir.watcher.plist",
+				"/Users/splug/Repos/sixeightzero/oa/lib/bakery/cms.php",
+				"/Users/splug/Repos/shutterstock/master_blaster_code_rage/public/css/bootstrap.min.css",
+				"/Users/splug/Repos/shutterstock/master_blaster_code_rage/views/layout.html",
+				"/Users/splug/Repos/shutterstock/master_blaster_code_rage/views/index.html",
+				"/Users/splug/Desktop/coderage/index.html",
+				"/Users/splug/Desktop/coderage/jquery.tminus.js",
+				"/Users/splug/Desktop/a.php",
+				"/Users/splug/Repos/splug/mackfamily/web/assets/css/stylesheet.css",
+				"/Users/splug/Repos/splug/mackfamily/lib/bakery/auth/acl.php",
+				"/Users/splug/Repos/splug/mackfamily/views/admin/create.twig",
+				"/Users/splug/Repos/splug/mackfamily/views/admin/subnav.twig",
+				"/Users/splug/Repos/splug/mackfamily/views/admin/admin.twig",
+				"/Users/splug/Repos/splug/mackfamily/sql/albums.sql",
+				"/Users/splug/Repos/splug/mackfamily/bootstrap.php",
+				"/Users/splug/Repos/github/cdm/lib/routes/observer.php",
+				"/Users/splug/Repos/splug/mackfamily/views/layouts/main.twig",
+				"/Users/splug/Repos/splug/mackfamily/views/admin/profile.twig",
+				"/Users/splug/Repos/splug/mackfamily/views/admin/nav.twig",
+				"/Users/splug/Repos/splug/mackfamily/views/nav.twig",
+				"/Users/splug/Repos/splug/mackfamily/sql/users.sql",
+				"/Users/splug/Repos/splug/mackfamily/sql/images.sql",
+				"/Users/splug/Repos/splug/mackfamily/views/default.twig",
+				"/Users/splug/Repos/splug/mackfamily/views/login.twig",
+				"/Users/splug/Repos/splug/mackfamily/bin/migrate.php"
 			],
 			"find":
 			{
-				"height": 22.0
+				"height": 24.0
 			},
 			"find_in_files":
 			{
-				"height": 0.0,
+				"height": 93.0,
 				"where_history":
 				[
 				]
@@ -584,17 +822,202 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"());",
+					"/groups/",
+					"eventgroups",
+					"<li >",
+					" class=\"\"",
+					"eventgroup",
+					"pages-",
+					"pages/",
+					"78961d",
+					"2090AC",
+					"28ABCC",
+					"2090ac",
+					"28abcc",
+					"ff8e23",
+					"ff9b38",
+					"a02716",
+					"bc2e1a",
+					"168fa0",
+					"1aa8bc",
+					"16A085",
+					"1ABC9C",
+					"\"image\"",
+					"code",
+					"               ",
+					"               \n",
+					"find(",
+					"Fin(",
+					"name",
+					"PHP_EOL",
+					"wys",
+					"admin-categories",
+					"/pages",
+					"categories/categori",
+					"\"admin/pages/",
+					"Pages",
+					"/oaadmin/pages",
+					"create-page",
+					"pages-",
+					"pages/create",
+					"/pages/",
+					"Page",
+					"ok",
+					"$app->request->getUrl().",
+					"New",
+					"\"assets",
+					"fetchAll(",
+					"SERVER",
+					"Dashboa",
+					"font",
+					"googl",
+					"\"assets",
+					"profile",
+					"email",
+					"       \n",
+					"open",
+					"titanosx",
+					"register_de",
+					"ctzn",
+					"ctznOSX",
+					"ctznosx",
+					"ctznOSX",
+					"orm",
+					"album/:albu",
+					"album/album",
+					"header",
+					"save()",
+					"d9d9da",
+					"14.00",
+					"14",
+					"14.00",
+					"sanitize_address",
+					"new_request",
+					"1",
+					"font_face",
+					"∏",
+					"gzip",
+					"dtr",
+					"postfix",
+					"\\n",
 					"^",
-					"try",
-					"count"
+					"events-manager-bookings",
+					"settings",
+					"setting",
+					"dtr_user_save",
+					"dtr_registration_fields",
+					"h2",
+					"Insurance Details",
+					"requi",
+					"sidebar",
+					"install_requires",
+					"image",
+					"monitors",
+					"Monitor",
+					",",
+					"'",
+					"sys.",
+					"os.",
+					"CtznOSXLanguage",
+					"TiLanguage",
+					"walk",
+					"system",
+					"^",
+					"console.log",
+					"event_booking_taxonomy",
+					"_link",
+					"_url",
+					"wp_ajax_get_event_times",
+					"ajaxurl",
+					"print_r",
+					"dtr_user_save",
+					"wp_dashboard_setup",
+					"save_dtr_profile_fields",
+					"get_user_meta",
+					"event_post_meta_booking",
+					"booking",
+					"event_locatio",
+					"Pending",
+					"pending",
+					"event_stat",
+					"$_POST['attrib_name']",
+					"field_t",
+					"field_tp",
+					"field_typ",
+					"field_tp",
+					"Paragraph",
+					"\\$field_types",
+					"\\$field\\_types",
+					"$field_types",
+					"Header"
 				],
 				"highlight": true,
 				"in_selection": false,
 				"preserve_case": false,
-				"regex": true,
+				"regex": false,
 				"replace_history":
 				[
+					"/",
+					"events",
+					"<li>",
+					"",
+					"events-",
+					"events/",
+					"8caf24",
+					"78961d",
+					"a4cc28",
+					"78961d",
+					"a0167c",
+					"bc1a92",
+					"ff8e23",
+					"ff9b38",
+					"a02716",
+					"bc2e1a",
+					"168fa0",
+					"1aa8bc",
+					"",
+					"\"admin/pages/categories/",
+					"Categories",
+					"/oaadmin/categories",
+					"create-category",
+					"categories-",
+					"pages/categories",
+					"/categories/",
+					"",
+					"\"/assets",
+					"family",
+					"titanOSX",
+					"titan",
+					"titanOSX",
+					" ",
+					"",
+					"#",
+					"",
+					"CtznLanguage",
+					"CtznOSXLanguage",
+					"#",
+					"booking",
+					"Booking",
+					"Event",
+					"Events",
+					"events",
+					"event",
+					"Event",
+					"Events",
+					"_event",
+					"location_",
+					"event_",
+					"dtr-wpfw",
+					"date_modified timestamp DEFAULT '1000-01-01 00:00:00',",
+					"{table_name}",
+					"",
+					"#",
+					"    ",
+					"",
+					"execute_command",
+					"nix.shell_out",
+					"}\\n",
+					"{\\n",
 					"#"
 				],
 				"reverse": false,
@@ -603,218 +1026,18 @@
 				"whole_word": false,
 				"wrap": true
 			},
-			"folders":
-			[
-				{
-					"follow_symlinks": true,
-					"path": "/Users/splug/Repos/shutterstock/macinvader/sql/migrate"
-				}
-			],
-			"groups":
-			[
-				{
-					"selected": 0,
-					"sheets":
-					[
-						{
-							"buffer": 0,
-							"file": "/Users/splug/Repos/shutterstock/macinvader/sql/migrate/01_create_devices.rb",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 509,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										444,
-										444
-									]
-								],
-								"settings":
-								{
-									"incomplete_sync": null,
-									"remote_loading": false,
-									"synced": false,
-									"syntax": "Packages/Ruby/Ruby.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/Users/splug/Repos/shutterstock/macinvader/sql/migrate/02_create_users.rb",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 263,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										156,
-										156
-									]
-								],
-								"settings":
-								{
-									"incomplete_sync": null,
-									"remote_loading": false,
-									"synced": false,
-									"syntax": "Packages/Ruby/Ruby.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 4,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/Users/splug/Repos/shutterstock/macinvader/sql/migrate/03_create_assignments.rb",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 263,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										142,
-										142
-									]
-								],
-								"settings":
-								{
-									"incomplete_sync": null,
-									"remote_loading": false,
-									"synced": false,
-									"syntax": "Packages/Ruby/Ruby.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 3,
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "/Users/splug/Repos/shutterstock/macinvader/sql/migrate/04_create_device_details.rb",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 296,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"auto_name": "class CreateAssignments < ActiveRecord::Migration",
-									"incomplete_sync": null,
-									"syntax": "Packages/Ruby/Ruby.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 4,
-							"file": "/Users/splug/Repos/shutterstock/macinvader/sql/migrate/06_create_device_firmware.rb",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 243,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										188,
-										188
-									]
-								],
-								"settings":
-								{
-									"incomplete_sync": null,
-									"remote_loading": false,
-									"synced": false,
-									"syntax": "Packages/Ruby/Ruby.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						}
-					]
-				}
-			],
 			"incremental_find":
 			{
-				"height": 22.0
+				"height": 24.0
 			},
 			"input":
 			{
 				"height": 30.0
 			},
-			"layout":
-			{
-				"cells":
-				[
-					[
-						0,
-						0,
-						1,
-						1
-					]
-				],
-				"cols":
-				[
-					0.0,
-					1.0
-				],
-				"rows":
-				[
-					0.0,
-					1.0
-				]
-			},
 			"menu_visible": true,
 			"output.exec":
 			{
-				"height": 156.0
+				"height": 230.0
 			},
 			"output.find_results":
 			{
@@ -822,13 +1045,11 @@
 			},
 			"output.sftp":
 			{
-				"height": 94.0
+				"height": 96.0
 			},
-			"position": "491 88 829 790 0 0 1440 878 ",
-			"project": "",
 			"replace":
 			{
-				"height": 40.0
+				"height": 44.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -836,6 +1057,10 @@
 				"height": 0.0,
 				"selected_items":
 				[
+					[
+						"",
+						"midas/launcher.py"
+					]
 				],
 				"width": 0.0
 			},
@@ -854,22 +1079,21 @@
 				[
 				],
 				"width": 0.0
-			},
-			"settings":
-			{
 			},
 			"show_minimap": true,
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 211.0,
+			"side_bar_width": 272.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
-			},
-			"window_id": 36,
-			"workspace_name": ""
-		}
+			}
+		},
+		"new_window_width": 1305.0
+	},
+	"windows":
+	[
 	],
 	"workspaces":
 	{

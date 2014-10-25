@@ -1,8 +1,77 @@
 {
 	"folder_history":
 	[
-		"/Users/splug/Repos/shutterstock/macinvader",
+		"/Users/splug/Repos/rockethome/chef",
+		"/Users/splug/Desktop/domainchkr",
+		"/Users/splug/Repos/github/cdm",
+		"/Users/splug/Library/Application Support",
+		"/Users/splug/ctos/cli",
+		"/Users/splug/Repos/sixeightzero/oa",
+		"/Users/splug/Repos/shutterstock/puppet",
+		"/Users/splug/Repos/shutterstock/puppet/src/modules/roles/manifests/base/firewall",
+		"/Users/splug/Dropbox (Personal)/Designs/webarch/webarch/HTML/assets/js",
+		"/Users/splug/Repos/shutterstock/puppet/src/modules/roles/manifests/sdm",
+		"/Users/splug/Repos/shutterstock/security-autopwn",
+		"/Users/splug/Repos/shutterstock/people",
+		"/Users/splug/Repos/shutterstock/sdm-puppet",
+		"/Users/splug/baker",
+		"/Users/splug/ctos/cli/titan",
+		"/Users/splug/Repos/splug/mackfamily",
+		"/Users/splug/Repos/shutterstock/master-blaster-agent",
+		"/Users/splug/Repos/shutterstock/master_blaster_code_rage",
+		"/Users/splug/Repos/github/xssver",
+		"/Users/splug/Downloads/youropticalshop-com-myshopify-com-clean-theme-go-build",
 		"/Users/splug",
+		"/Users/splug/Repos/shutterstock/puppet/src/modules/roles/manifests/autopwn_iptables",
+		"/Users/splug/Repos/shutterstock/security-iptables",
+		"/Users/splug/Repos/shutterstock/macinvader",
+		"/Users/splug/Repos/github/titan-tools",
+		"/Users/splug/Repos/github/BakeryFramework2",
+		"/Users/splug/Repos/github/testbakeryapp",
+		"/Users/splug/Repos/github/ddv",
+		"/Users/splug/Repos/rockethome/chef/site-cookbooks/users",
+		"/Users/splug/Repos/shutterstock/mcollective-plugins",
+		"/Users/splug/Repos/shutterstock/mcollective-plugins/iptables",
+		"/Users/splug/rdm",
+		"/Users/splug/Repos/shutterstock",
+		"/Users/splug/Repos/shutterstock/openvpn-auth-ldap-read-only",
+		"/Users/splug/Repos/shutterstock/ragevpn",
+		"/Users/splug/Repos/shutterstock/puppet/src/modules/roles/manifests/autopwn",
+		"/Users/splug/Repos/shutterstock/puppet/src/manifests",
+		"/Users/splug/Repos/shutterstock/puppet/src/modules/roles/manifests",
+		"/Users/splug/Repos/sixeightzero/wordpress/public_html",
+		"/Users/splug/Repos/sixeightzero/wordpress",
+		"/Users/splug/Repos/shutterstock/shuttermap",
+		"/Users/splug/Repos/shutterstock/people/test",
+		"/Users/splug/Repos/kn0x/Shellshock/messages",
+		"/Users/splug/Repos/kn0x/demo",
+		"/Users/splug/Repos/github/titan",
+		"/Users/splug/Repos/rockethome/chef/site-cookbooks/nginx",
+		"/Users/splug/Repos/shutterstock/grumpycatftw",
+		"/Users/splug/Repos/shutterstock/ftf/level01",
+		"/Users/splug/Repos/shutterstock/ftf/level02",
+		"/Users/splug/Repos/shutterstock/firewall-policy-tests",
+		"/Users/splug/Repos/shutterstock/ftf",
+		"/Users/splug/Repos/shutterstock/ftf/level01/test",
+		"/Users/splug/Repos/rockethome/launchpad",
+		"/Users/splug/Repos/shutterstock/ojos",
+		"/Users/splug/Repos/sixeightzero/wordpress/public_html/wp-content/plugins",
+		"/Users/splug/Repos/github/titan/modules",
+		"/Users/splug/Repos/github/titan-tools/python",
+		"/Users/splug/Repos/rockethome/chef/cookbooks/gitlab",
+		"/Users/splug/Repos/rockethome/chef/cookbooks/motd",
+		"/Users/splug/Repos/github/titan/modules/check-ca-certificates",
+		"/Users/splug/Repos/github/titan/modules/ca-cert-check",
+		"/Users/splug/Repos/github/titan/modules/git-repositories",
+		"/Users/splug/Repos/github/titan/modules/installed-applications",
+		"/Users/splug/Repos/github/titan/modules/analyze-ssh-keys",
+		"/Users/splug/Repos/github/titan/modules/installed_applications",
+		"/Users/splug/Repos/github/titan-tools/python/titantools",
+		"/Users/splug/Repos/rockethome/chef/cookbooks",
+		"/Users/splug/Repos/shutterstock/shutterstock-autoban-ban",
+		"/Users/splug/Repos/shutterstock/sdm-puppet/modules",
+		"/Users/splug/Repos/shutterstock/mcollective-plugins/openssl/agent",
+		"/Users/splug/Repos/github/Invader",
 		"/Users/splug/Repos/shutterstock/macinvader/routes",
 		"/Users/splug/Repos/shutterstock/macinvader/sql/migrate",
 		"/Users/splug/Repos/shutterstock/macinvader/models",
@@ -12,18 +81,482 @@
 		"/Users/mmackintosh/Desktop/rockethome pro/frontend",
 		"/Users/mmackintosh/.dotfiles"
 	],
-	"last_version": 3059,
-	"last_window_id": 42,
+	"last_version": 3065,
+	"last_window_id": 321,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 768.0,
+		"new_window_height": 855.0,
 		"new_window_settings":
 		{
 			"auto_complete":
 			{
 				"selected_items":
 				[
+					[
+						"html",
+						"html_entity_decode"
+					],
+					[
+						"eve",
+						"eventGroup"
+					],
+					[
+						"padding-",
+						"padding-bottom"
+					],
+					[
+						"book",
+						"booking_types"
+					],
+					[
+						"boo",
+						"booking_types"
+					],
+					[
+						"events",
+						"eventgroups"
+					],
+					[
+						"booking",
+						"booking_type"
+					],
+					[
+						"even",
+						"event_id"
+					],
+					[
+						"d",
+						"disabled	Attr"
+					],
+					[
+						"appoin",
+						"appointments"
+					],
+					[
+						"crea",
+						"create_date"
+					],
+					[
+						"event",
+						"eventgroup"
+					],
+					[
+						"deleted",
+						"deleted_keys"
+					],
+					[
+						"page",
+						"page_id"
+					],
+					[
+						"family_m",
+						"family_members"
+					],
+					[
+						"fa",
+						"family_member"
+					],
+					[
+						"da",
+						"date_created"
+					],
+					[
+						"text-",
+						"text-align"
+					],
+					[
+						"form",
+						"formData"
+					],
+					[
+						"album",
+						"album"
+					],
+					[
+						"is_in",
+						"is_int"
+					],
+					[
+						"al",
+						"album_name"
+					],
+					[
+						"alb",
+						"album_date"
+					],
+					[
+						"albu",
+						"album_date"
+					],
+					[
+						"padd",
+						"padding"
+					],
+					[
+						"margin",
+						"margin"
+					],
+					[
+						"margin-",
+						"margin-bottom"
+					],
+					[
+						"session",
+						"session_destroy"
+					],
+					[
+						"tab",
+						"table_name"
+					],
+					[
+						"sche",
+						"schema_meta"
+					],
+					[
+						"new",
+						"new_schema"
+					],
+					[
+						"auth",
+						"auth_adapter"
+					],
+					[
+						"addre",
+						"address_string"
+					],
+					[
+						"T",
+						"TIMEOUT"
+					],
+					[
+						"requ",
+						"requests"
+					],
+					[
+						"set",
+						"set_error_handler"
+					],
+					[
+						"parse",
+						"parse_ini_file"
+					],
+					[
+						"auto",
+						"autopwn_iptables"
+					],
+					[
+						"padding",
+						"padding-left"
+					],
+					[
+						"succ",
+						"successes"
+					],
+					[
+						"module_t",
+						"module_data"
+					],
+					[
+						"module",
+						"module_data"
+					],
+					[
+						"aut",
+						"audit_date"
+					],
+					[
+						"pre",
+						"prepared_values"
+					],
+					[
+						"getTable",
+						"getTableSchema"
+					],
+					[
+						"json_",
+						"json_encode"
+					],
+					[
+						"get_curr",
+						"get_current_site"
+					],
+					[
+						"pos",
+						"post_id"
+					],
+					[
+						"rol",
+						"role_key"
+					],
+					[
+						"monitor",
+						"monitor_count"
+					],
+					[
+						"remove",
+						"removeClass"
+					],
+					[
+						"tabl",
+						"table-responsive"
+					],
+					[
+						"table",
+						"table-bordered"
+					],
+					[
+						"cel",
+						"cellpadding"
+					],
+					[
+						"mo",
+						"module_data"
+					],
+					[
+						"monit",
+						"monitors"
+					],
+					[
+						"moni",
+						"monitor_path"
+					],
+					[
+						"sh",
+						"shell_out"
+					],
+					[
+						"in",
+						"install_date"
+					],
+					[
+						"monito",
+						"monitor_name"
+					],
+					[
+						"sys",
+						"system"
+					],
+					[
+						"data",
+						"database"
+					],
+					[
+						"sele",
+						"selected_appts"
+					],
+					[
+						"meta",
+						"meta_value"
+					],
+					[
+						"app",
+						"appointment"
+					],
+					[
+						"term_",
+						"term_id"
+					],
+					[
+						"strip",
+						"strip_tags"
+					],
+					[
+						"fi",
+						"field_types"
+					],
+					[
+						"event_boo",
+						"event_booking_id"
+					],
+					[
+						"tax",
+						"taxonomy_terms"
+					],
+					[
+						"appoi",
+						"appointments"
+					],
+					[
+						"long",
+						"longitude"
+					],
+					[
+						"ob_e",
+						"ob_end_clean"
+					],
+					[
+						"inline",
+						"inline-block"
+					],
+					[
+						"column",
+						"column_name"
+					],
+					[
+						"funct",
+						"func_get_args"
+					],
+					[
+						"term",
+						"term_meta"
+					],
+					[
+						"get_defin",
+						"get_defined_vars"
+					],
+					[
+						"de",
+						"details"
+					],
+					[
+						"Check",
+						"Checkbox"
+					],
+					[
+						"chec",
+						"checked"
+					],
+					[
+						"att",
+						"attribute_name"
+					],
+					[
+						"req",
+						"required"
+					],
+					[
+						"inli",
+						"inline-block"
+					],
+					[
+						"attr",
+						"attr_details"
+					],
+					[
+						"attri",
+						"attribute"
+					],
+					[
+						"text",
+						"textarea	Tag"
+					],
+					[
+						"op",
+						"option	Tag"
+					],
+					[
+						"func_get",
+						"func_get_args"
+					],
+					[
+						"print",
+						"print_r"
+					],
+					[
+						"schema",
+						"schema_version"
+					],
+					[
+						"see",
+						"seed_data"
+					],
+					[
+						"debug",
+						"debug_backtrace"
+					],
+					[
+						"post",
+						"post_object"
+					],
+					[
+						"compr",
+						"compressed"
+					],
+					[
+						"gw",
+						"gwip"
+					],
+					[
+						"dg",
+						"dgw_ip"
+					],
+					[
+						"public",
+						"public_ip"
+					],
+					[
+						"is",
+						"isfile"
+					],
+					[
+						"ssh",
+						"ssh_keys"
+					],
+					[
+						"dat",
+						"datastore"
+					],
+					[
+						"sc",
+						"schema"
+					],
+					[
+						"finger",
+						"fingerprints"
+					],
+					[
+						"schem",
+						"schema_file"
+					],
+					[
+						"sstk",
+						"show_sstk"
+					],
+					[
+						"config",
+						"config_file"
+					],
+					[
+						"c",
+						"config_file"
+					],
+					[
+						"rep",
+						"repo_name"
+					],
+					[
+						"remote",
+						"remote_branches"
+					],
+					[
+						"branc",
+						"branches"
+					],
+					[
+						"MODUL",
+						"MODULE_PACKS"
+					],
+					[
+						"mod",
+						"mod_name"
+					],
+					[
+						"target",
+						"target_count"
+					],
+					[
+						"parse_",
+						"parse_url"
+					],
+					[
+						"array_key",
+						"array_key_exists"
+					],
+					[
+						"gethost",
+						"gethostbyname"
+					],
 					[
 						"sig_cla",
 						"sig_class_id"
@@ -45,11 +578,63 @@
 			"build_system": "Packages/User/PHP.sublime-build",
 			"command_palette":
 			{
-				"height": 267.0,
+				"height": 119.0,
 				"selected_items":
 				[
 					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"co",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"json",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"pack",
+						"Package Control: Remove Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: List Packages"
+					],
+					[
+						"",
+						"DocBlockr: Decorate line comment"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"git",
+						"GitHub: View"
+					],
+					[
 						"prev",
+						"Pandoc: Render Markdown to temp HTML and View"
+					],
+					[
+						"previ",
 						"GitHub Flavored Markdown: Preview"
 					],
 					[
@@ -65,24 +650,8 @@
 						"Preferences: Markmon Key Bindings – User"
 					],
 					[
-						"instal",
-						"Package Control: Install Package"
-					],
-					[
-						"in",
-						"Package Control: Install Package"
-					],
-					[
-						"previ",
-						"GitHub Flavored Markdown: Preview"
-					],
-					[
 						"mark",
 						"Set Syntax: MultiMarkdown"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
 					],
 					[
 						"ruby",
@@ -93,20 +662,8 @@
 						"Set Syntax: Python"
 					],
 					[
-						"",
-						"Set Syntax: PHP"
-					],
-					[
 						"blame",
 						"GitHub Flavored Markdown: Preview"
-					],
-					[
-						"git",
-						"GitGutter: Show Comparing Against"
-					],
-					[
-						"insta",
-						"Package Control: Install Package"
 					],
 					[
 						"githu",
@@ -117,352 +674,21 @@
 						"Package Control: Install Package"
 					]
 				],
-				"width": 593.0
-			},
-			"console":
-			{
-				"height": 126.0,
-				"history":
-				[
-					"call(\"echo Hello World\", shell=True)  ",
-					"print call(\"echo Hello World\", shell=True)  ",
-					"return_code = call(\"echo Hello World\", shell=True)  ",
-					"os.system(\"php -i\")",
-					"import os; os.system(\"php -i\")",
-					"os.system(\"php -i\")",
-					"call([\"php\", \"-i\"])",
-					"call([\"php\", \"-l\"])",
-					"call([\"php\", \"-l\")",
-					"call([\"ls\", \"-l\"])",
-					"from subprocess import call",
-					"php -l",
-					"exit()",
-					"exit",
-					"sys.exec('sudo ./oink.py')",
-					"exec sudo oink.py",
-					"exec",
-					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
-					" import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
-				]
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"file_history":
-			[
-				"/Users/splug/Repos/shutterstock/macinvader/sql/migrate/01_create_devices.rb",
-				"/Users/splug/Repos/shutterstock/macinvader/sql/migrate/06_create_device_firmware.rb",
-				"/Users/splug/Repos/shutterstock/macinvader/sql/migrate/03_create_events.rb",
-				"/Users/splug/Repos/shutterstock/macinvader/sql/migrate/01_create_devices.rbe",
-				"/Users/splug/Repos/shutterstock/macinvader/config/databases.yaml",
-				"/Users/splug/Repos/shutterstock/macinvader/lib/attributes_to_liquid_methods_mapper.rb",
-				"/Users/splug/Repos/rockethome/www/public/index.html",
-				"/Users/splug/Repos/rockethome/www/public/css/style.css",
-				"/Users/splug/Repos/github/rocketframework/composer.json",
-				"/Users/splug/Repos/shutterstock/macinvader/mi.css",
-				"/Users/splug/Downloads/our-boxen-master/vendor/puppet/cache/boxen-puppet-nginx-b1e3273/manifests/init.pp",
-				"/Users/splug/Downloads/our-boxen-master/manifests/site.pp",
-				"/Users/splug/Library/Application Support/Sublime Text 3/Packages/User/dTR-mdp.py",
-				"/Users/splug/Repos/github/transmission/views/layout.erb",
-				"/Users/splug/Repos/github/transmission/routes/messages.rb",
-				"/Users/splug/Repos/github/transmission/views/message.erb",
-				"/Users/splug/Repos/github/transmission/transmission.rb",
-				"/Users/splug/Repos/github/transmission/routes/account.rb",
-				"/Users/splug/Repos/github/transmission/views/message_auth.erb",
-				"/Users/splug/Repos/github/transmission/views/messages.erb",
-				"/Users/splug/Repos/github/transmission/views/send.erb",
-				"/Users/splug/Repos/github/transmission/views/login.erb",
-				"/Users/splug/Repos/github/transmission/views/signup.erb",
-				"/Users/splug/Repos/github/transmission/layout.erb",
-				"/Users/splug/Repos/github/transmission/views/index.erb",
-				"/Users/splug/Repos/github/net-ssh/test/test_key_factory.rb",
-				"/Users/splug/Repos/github/net-ssh/lib/net/ssh/key_factory.rb",
-				"/Users/splug/Repos/github/transmission/helpers/system.rb",
-				"/Users/mmackintosh/Desktop/desktop_sutff.mdown",
-				"/Users/mmackintosh/Desktop/ssl stuff.md",
-				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
-				"/Users/mmackintosh/Desktop/sdm_shuttercorp_net(1).pem",
-				"/Users/mmackintosh/repos/shutterstock/puppet/src/manifests/nodes/shuttercorp/ma01/prod-wordpress01.pp",
-				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Packages/nginx/Syntaxes/nginx.tmLanguage",
-				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Packages/nginx/Examples/nginx.conf",
-				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Installed Packages/nginx.sublime-package",
-				"/Users/mmackintosh/Desktop/netscan.sh",
-				"/Users/mmackintosh/Desktop/# Old Files/slax/Event Scripts/Disable Interface/disable-interface.slax",
-				"/Users/mmackintosh/repos/shutterstock/snort-rules/snort.conf",
-				"/Users/mmackintosh/Desktop/# Old Files/slax/Event Scripts/DynDNS/dyn-dns-update.xslt",
-				"/Users/mmackintosh/repos/github/Rocket/DB/table.php",
-				"/Users/mmackintosh/repos/github/Rocket/DB/database.php",
-				"/Users/mmackintosh/repos/github/Rocket/autorun",
-				"/Users/mmackintosh/repos/github/Rocket/DB/config.php",
-				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Packages/User/SolarizedToggle.sublime-settings",
-				"/Users/mmackintosh/Desktop/app.php",
-				"/Users/mmackintosh/sites/splug.io/posts/02-sort-ips-with-bash.md",
-				"/Users/mmackintosh/projects/sites/tophat/bin/log_importer",
-				"/Users/mmackintosh/projects/utils/oink/oink.py",
-				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Packages/Alignment/Default (OSX).sublime-keymap",
-				"/Users/mmackintosh/projects/utils/oink/config.yaml",
-				"/Users/mmackintosh/projects/utils/oink/test.sh",
-				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
-				"/Users/mmackintosh/sites/splug.io/index.php",
-				"/Users/mmackintosh/sites/splug.io/app.php",
-				"/Users/mmackintosh/Desktop/junos.php",
-				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Packages/User/PHP.sublime-build",
-				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Packages/User/Python - Sudo .sublime-build",
-				"/Users/mmackintosh/projects/utils/oink/README.md",
-				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Cache/Solarized Color Scheme/Solarized (dark).tmTheme.cache",
-				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Installed Packages/Theme - Soda SolarizedDark.sublime-package",
-				"/Users/mmackintosh/Desktop/a.php",
-				"/Users/mmackintosh/Desktop/rapidresponse.md"
-			],
-			"find":
-			{
-				"height": 22.0
-			},
-			"find_in_files":
-			{
-				"height": 0.0,
-				"where_history":
-				[
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": false,
-				"find_history":
-				[
-					"());",
-					"^",
-					"try",
-					"count"
-				],
-				"highlight": true,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": true,
-				"replace_history":
-				[
-					"#"
-				],
-				"reverse": false,
-				"show_context": true,
-				"use_buffer2": true,
-				"whole_word": false,
-				"wrap": true
-			},
-			"incremental_find":
-			{
-				"height": 22.0
-			},
-			"input":
-			{
-				"height": 30.0
-			},
-			"menu_visible": true,
-			"output.exec":
-			{
-				"height": 156.0
-			},
-			"output.find_results":
-			{
-				"height": 0.0
-			},
-			"output.sftp":
-			{
-				"height": 94.0
-			},
-			"replace":
-			{
-				"height": 40.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_symbol":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"show_minimap": true,
-			"show_open_files": false,
-			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 211.0,
-			"status_bar_visible": true,
-			"template_settings":
-			{
-			}
-		},
-		"new_window_width": 829.0
-	},
-	"windows":
-	[
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
-					[
-						"sig_cla",
-						"sig_class_id"
-					],
-					[
-						"alert",
-						"alert_match"
-					],
-					[
-						"pro",
-						"protocol"
-					],
-					[
-						"source",
-						"source_ip"
-					]
-				]
-			},
-			"buffers":
-			[
-				{
-					"file": "/Users/splug/Repos/shutterstock/macinvader/clients/invader.py",
-					"settings":
-					{
-						"buffer_size": 3873,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"contents": "# sudo system_profiler SPHardwareDataType SPSoftwareDataType SPNetworkDataType SPInstallHistoryDataType SPManagedClientDataType\nmodule MacInvader\n  class App\n    after '/device/*', :provides => :json do; end\n\n    post '/device/register' do\n      begin\n        validate_param_presence 'serial_number', 'primary_mac_address'\n        primary_mac_address = params.delete('primary_mac_address').downcase.strip\n        serial_number = params.delete('serial_number').downcase.strip\n\n        device = MacInvader::Device.where(:primary_mac_address => primary_mac_address, :serial_number => serial_number).first\n        if device.nil?\n          device = MacInvader::Device.new(:serial_number => serial_number, :primary_mac_address => primary_mac_address)\n          logger.info \"[NDR] New device found: #{device.serial_number} #{device.primary_mac_address}\"\n        end\n\n        event = MacInvader::Event.where(:message\n          \n        event.save!\n\n        device.hw_uuid = params.delete('hardware_uuid')\n        device.machine_model = params.delete('machine_model')\n        device.machine_make = params.delete('machine_make')\n        device.machine_name = params.delete('machine_name')\n        device.cpu_type = params.delete('cpu_type')\n        device.cpu_speed = params.delete('cpu_speed')\n        device.physical_memory = params.delete('physical_memory')\n        device.os_version = params.delete('os_version')\n        device.os_build = params.delete('os_build')   \n        device.added_date = Time.now\n\n        device.save!\n        logger.info \"[DSR] Device successfully added: #{device.serial_number} #{device.primary_mac_address}\"\n\n        status 202\n\n      rescue ParamError => e\n        status 400\n        logger.error \"[ERR] Failure for #{device.serial_number} #{device.primary_mac_address}: #{e.to_s}\"\n        body({ :user_error => e.to_s }.to_json)\n      rescue Exception => e\n        status 500\n        logger.error \"[ERR] Failure for #{device.serial_number} #{device.primary_mac_address}: #{e.to_s}\"\n        body({ :server_error => e.to_s }.to_json)\n      end\n    end\n\n    post '/device/check_in' do\n      begin\n        validate_param_presence 'serial_number', 'primary_mac_address'\n        primary_mac_address = params.delete('primary_mac_address').downcase.strip\n        serial_number = params.delete('serial_number').downcase.strip\n\n        device = MacInvader::Device.where(:primary_mac_address => primary_mac_address, :serial_number => serial_number).first\n        if device.nil?\n          logger.info \"[DNR] Non-existant device attempting to check in: #{serial_number}\"\n          redirect \"/device/register\", 307\n        end\n        logger.info \"[DCI] Device checking in: #{device.serial_number} #{device.primary_mac_address}\"\n\n        device.hw_uuid = params.delete('hardware_uuid')\n        device.machine_model = params.delete('machine_model')\n        device.machine_make = params.delete('machine_make')\n        device.machine_name = params.delete('machine_name')\n        device.cpu_type = params.delete('cpu_type')\n        device.cpu_speed = params.delete('cpu_speed')\n        device.physical_memory = params.delete('physical_memory')\n        device.os_version = params.delete('os_version')\n        device.os_build = params.delete('os_build')   \n        device.added_date = Time.now\n\n        device.save!\n        logger.info \"[CIC] Device check-in successful: #{device.serial_number} #{device.primary_mac_address}\"\n\n      rescue ParamError => e\n        status 400\n        logger.error \"[ERR] Failure for #{device.serial_number} #{device.primary_mac_address}: #{e.to_s}\"\n        body({ :user_error => e.to_s }.to_json)\n      rescue Exception => e\n        status 500\n        logger.error \"[ERR] Failure for #{device.serial_number} #{device.primary_mac_address}: #{e.to_s}\"\n        body({ :server_error => e.to_s }.to_json)\n      end\n    end\n\n  end\nend\n",
-					"file": "/Users/splug/Repos/shutterstock/macinvader/routes/api.rb",
-					"file_size": 3882,
-					"file_write_time": 130459694750000000,
-					"settings":
-					{
-						"buffer_size": 3865,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/splug/Repos/shutterstock/macinvader/sql/migrate/03_create_assignments.rb",
-					"settings":
-					{
-						"buffer_size": 263,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/splug/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-					"settings":
-					{
-						"buffer_size": 259,
-						"line_ending": "Unix"
-					}
-				}
-			],
-			"build_system": "Packages/Python/Python.sublime-build",
-			"command_palette":
-			{
-				"height": 267.0,
-				"selected_items":
-				[
-					[
-						"prev",
-						"GitHub Flavored Markdown: Preview"
-					],
-					[
-						"marko",
-						"MarkdownLive: Reload Server"
-					],
-					[
-						"Markdown",
-						"MarkdownLive: Reload Server"
-					],
-					[
-						"markdo",
-						"Preferences: Markmon Key Bindings – User"
-					],
-					[
-						"instal",
-						"Package Control: Install Package"
-					],
-					[
-						"in",
-						"Package Control: Install Package"
-					],
-					[
-						"previ",
-						"GitHub Flavored Markdown: Preview"
-					],
-					[
-						"mark",
-						"Set Syntax: MultiMarkdown"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
-						"ruby",
-						"Set Syntax: Ruby"
-					],
-					[
-						"syntax",
-						"Set Syntax: Python"
-					],
-					[
-						"",
-						"Set Syntax: PHP"
-					],
-					[
-						"blame",
-						"GitHub Flavored Markdown: Preview"
-					],
-					[
-						"git",
-						"GitGutter: Show Comparing Against"
-					],
-					[
-						"insta",
-						"Package Control: Install Package"
-					],
-					[
-						"githu",
-						"GitHub Flavored Markdown: Preview"
-					],
-					[
-						"isnta",
-						"Package Control: Install Package"
-					]
-				],
-				"width": 593.0
+				"width": 601.0
 			},
 			"console":
 			{
 				"height": 241.0,
 				"history":
 				[
+					"clear()",
+					"flush()",
+					"flush",
+					"clear",
+					"globals()",
+					"print(\"hello world\")",
+					"print \"hello world\"",
+					"print \"hello world:",
 					"clear()",
 					"clear",
 					"call(\"echo Hello World\", shell=True)  ",
@@ -497,78 +723,142 @@
 			},
 			"file_history":
 			[
-				"/Users/splug/Repos/shutterstock/macinvader/models/device.rb",
-				"/Users/splug/Repos/shutterstock/macinvader/sql/migrate/06_create_device_firmware.rb",
-				"/Users/splug/Repos/shutterstock/macinvader/sql/migrate/03_create_events.rb",
-				"/Users/splug/Repos/shutterstock/macinvader/sql/migrate/01_create_devices.rbe",
-				"/Users/splug/Repos/shutterstock/macinvader/config/databases.yaml",
-				"/Users/splug/Repos/shutterstock/macinvader/lib/attributes_to_liquid_methods_mapper.rb",
-				"/Users/splug/Repos/rockethome/www/public/index.html",
-				"/Users/splug/Repos/rockethome/www/public/css/style.css",
-				"/Users/splug/Repos/github/rocketframework/composer.json",
-				"/Users/splug/Repos/shutterstock/macinvader/mi.css",
-				"/Users/splug/Downloads/our-boxen-master/vendor/puppet/cache/boxen-puppet-nginx-b1e3273/manifests/init.pp",
-				"/Users/splug/Downloads/our-boxen-master/manifests/site.pp",
-				"/Users/splug/Library/Application Support/Sublime Text 3/Packages/User/dTR-mdp.py",
-				"/Users/splug/Repos/github/transmission/views/layout.erb",
-				"/Users/splug/Repos/github/transmission/routes/messages.rb",
-				"/Users/splug/Repos/github/transmission/views/message.erb",
-				"/Users/splug/Repos/github/transmission/transmission.rb",
-				"/Users/splug/Repos/github/transmission/routes/account.rb",
-				"/Users/splug/Repos/github/transmission/views/message_auth.erb",
-				"/Users/splug/Repos/github/transmission/views/messages.erb",
-				"/Users/splug/Repos/github/transmission/views/send.erb",
-				"/Users/splug/Repos/github/transmission/views/login.erb",
-				"/Users/splug/Repos/github/transmission/views/signup.erb",
-				"/Users/splug/Repos/github/transmission/layout.erb",
-				"/Users/splug/Repos/github/transmission/views/index.erb",
-				"/Users/splug/Repos/github/net-ssh/test/test_key_factory.rb",
-				"/Users/splug/Repos/github/net-ssh/lib/net/ssh/key_factory.rb",
-				"/Users/splug/Repos/github/transmission/helpers/system.rb",
-				"/Users/mmackintosh/Desktop/desktop_sutff.mdown",
-				"/Users/mmackintosh/Desktop/ssl stuff.md",
-				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
-				"/Users/mmackintosh/Desktop/sdm_shuttercorp_net(1).pem",
-				"/Users/mmackintosh/repos/shutterstock/puppet/src/manifests/nodes/shuttercorp/ma01/prod-wordpress01.pp",
-				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Packages/nginx/Syntaxes/nginx.tmLanguage",
-				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Packages/nginx/Examples/nginx.conf",
-				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Installed Packages/nginx.sublime-package",
-				"/Users/mmackintosh/Desktop/netscan.sh",
-				"/Users/mmackintosh/Desktop/# Old Files/slax/Event Scripts/Disable Interface/disable-interface.slax",
-				"/Users/mmackintosh/repos/shutterstock/snort-rules/snort.conf",
-				"/Users/mmackintosh/Desktop/# Old Files/slax/Event Scripts/DynDNS/dyn-dns-update.xslt",
-				"/Users/mmackintosh/repos/github/Rocket/DB/table.php",
-				"/Users/mmackintosh/repos/github/Rocket/DB/database.php",
-				"/Users/mmackintosh/repos/github/Rocket/autorun",
-				"/Users/mmackintosh/repos/github/Rocket/DB/config.php",
-				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Packages/User/SolarizedToggle.sublime-settings",
-				"/Users/mmackintosh/Desktop/app.php",
-				"/Users/mmackintosh/sites/splug.io/posts/02-sort-ips-with-bash.md",
-				"/Users/mmackintosh/projects/sites/tophat/bin/log_importer",
-				"/Users/mmackintosh/projects/utils/oink/oink.py",
-				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Packages/Alignment/Default (OSX).sublime-keymap",
-				"/Users/mmackintosh/projects/utils/oink/config.yaml",
-				"/Users/mmackintosh/projects/utils/oink/test.sh",
-				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
-				"/Users/mmackintosh/sites/splug.io/index.php",
-				"/Users/mmackintosh/sites/splug.io/app.php",
-				"/Users/mmackintosh/Desktop/junos.php",
-				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Packages/User/PHP.sublime-build",
-				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Packages/User/Python - Sudo .sublime-build",
-				"/Users/mmackintosh/projects/utils/oink/README.md",
-				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Cache/Solarized Color Scheme/Solarized (dark).tmTheme.cache",
-				"/Users/mmackintosh/Library/Application Support/Sublime Text 3/Installed Packages/Theme - Soda SolarizedDark.sublime-package",
-				"/Users/mmackintosh/Desktop/a.php",
-				"/Users/mmackintosh/Desktop/rapidresponse.md"
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes/calenders.php",
+				"/Users/splug/Repos/sixeightzero/oa/views/style2.twig",
+				"/Users/splug/Repos/sixeightzero/oa/views/default.twig",
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes/default.php",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/frontpage/create.twig",
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes/admin/frontpage.php",
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes/contactus.php",
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes/events.php",
+				"/Users/splug/Repos/sixeightzero/oa/views/page/default.twig",
+				"/Users/splug/Repos/sixeightzero/oa/views/layouts/main.twig",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/settings/navigation/list.twig",
+				"/Users/splug/Repos/sixeightzero/oa/web/assets/js/jquery.nestedsortable.js",
+				"/Users/splug/Repos/sixeightzero/oa/views/page/contactus.twig",
+				"/Users/splug/Repos/sixeightzero/oa/views/404.html",
+				"/Users/splug/Repos/sixeightzero/oa/bootstrap.php",
+				"/Users/splug/Repos/sixeightzero/oa/lib/bakery/auth/acl.php",
+				"/Users/splug/Repos/sixeightzero/oa/views/email/default.twig",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/layouts/sidebar.twig",
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes/user/register.php",
+				"/Users/splug/Repos/sixeightzero/oa/web/js/banzhow.js",
+				"/Users/splug/Repos/sixeightzero/oa/lib/twitter/OAuth.php",
+				"/Users/splug/Repos/sixeightzero/oa/lib/twitter/twitteroauth.php",
+				"/Users/splug/Repos/sixeightzero/oa/composer.json",
+				"/Users/splug/Repos/sixeightzero/oa/web/js/jquery.tweetable.js",
+				"/Users/splug/Repos/sixeightzero/oa/.rock.yml",
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes/admin/users.php",
+				"/Users/splug/Repos/sixeightzero/oa/views/user/events.twig",
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes/user/events.php",
+				"/Users/splug/Repos/sixeightzero/oa/views/user/family.twig",
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes/user/family.php",
+				"/Users/splug/Repos/sixeightzero/oa/views/events/calendar.twig",
+				"/Users/splug/Repos/sixeightzero/oa/views/events/calendar-search.twig",
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes/admin/bookings.php",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/events/groups/create.twig",
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes/admin/eventgroups.php",
+				"/Users/splug/Repos/sixeightzero/oa/sql/event_groups.sql",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/events/groups/list.twig",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/bookings/create.twig",
+				"/Users/splug/Repos/sixeightzero/oa/views/events/show.twig",
+				"/Users/splug/Repos/sixeightzero/oa/sql/users.sql",
+				"/Users/splug/Repos/sixeightzero/oa/sql/settings.sql",
+				"/Users/splug/Repos/sixeightzero/oa/web/index.php",
+				"/Users/splug/Repos/sixeightzero/oa/logs/.gitkeep",
+				"/Users/splug/Repos/sixeightzero/oa/web/css/style.css",
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes/admin/subusers.php",
+				"/Users/splug/Repos/sixeightzero/oa/views/user/register.twig",
+				"/Users/splug/Repos/shutterstock/people/.rock.yml",
+				"/Users/splug/Repos/shutterstock/people/Gemfile",
+				"/Users/splug/Repos/sixeightzero/oa/views/login.twig",
+				"/Users/splug/Desktop/domainchkr/invalid_domains",
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes/admin/bookingsapi.php",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/layouts/booking_print.twig",
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes/admin/events.php",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/events/create.twig",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/events/locations/create.twig",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/pages/categories/new.twig",
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes/admin/default.php",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/events/list.twig",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/pages/list.twig",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/subusers/create.twig",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/users/create.twig",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/users/list.twig",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/bookings/list.twig",
+				"/Users/splug/Repos/sixeightzero/oa/sql/user_notes.sql",
+				"/Users/splug/Repos/sixeightzero/oa/sql/people_meta.sql",
+				"/Users/splug/Repos/sixeightzero/oa/sql/people_medical.sql",
+				"/Users/splug/Repos/sixeightzero/oa/sql/people_insurance.sql",
+				"/Users/splug/Repos/sixeightzero/oa/sql/bookings.sql",
+				"/Users/splug/Repos/sixeightzero/oa/sql/booking_types.sql",
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes/admin/locations.php",
+				"/Users/splug/Repos/sixeightzero/oa/sql/events.sql",
+				"/Users/splug/Repos/sixeightzero/oa/sql/locations.sql",
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes/admin/bookingtypes.php",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/bookings/types/list.twig",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/settings/list.twig",
+				"/Users/splug/Repos/sixeightzero/oa/lib/bakery/orm.php",
+				"/Users/splug/Repos/sixeightzero/oa/lib/model_helpers.php",
+				"/Users/splug/ctos/cli/setup.py",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/events/locations/list.twig",
+				"/Users/splug/Repos/sixeightzero/oa/web/assets/js/core.js",
+				"/Users/splug/Repos/sixeightzero/oa/web/assets/plugins/bootstrap-timepicker/js/bootstrap-timepicker.min.js",
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes/admin/pages.php",
+				"/Users/splug/Repos/sixeightzero/oa/web/assets/plugins/ckeditor/config.js",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/pages/create.twig",
+				"/Users/splug/Repos/sixeightzero/oa/web/assets/plugins/ckeditor/core/dom/element.js",
+				"/Users/splug/Repos/sixeightzero/oa/web/assets/js/ckeditor/config.js",
+				"/Users/splug/Repos/sixeightzero/oa/web/assets/css/style.css",
+				"/Users/splug/Repos/sixeightzero/oa/web/assets/css/summernote.css",
+				"/Users/splug/Repos/sixeightzero/oa/web/assets/js/summernote.min.js",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/layouts/main.twig",
+				"/Users/splug/Repos/sixeightzero/oa/web/assets/js/xml.min.js",
+				"/Users/splug/Repos/sixeightzero/oa/web/assets/js/formatting.min.js",
+				"/Users/splug/Repos/sixeightzero/oa/web/assets/js/codemirror.min.js",
+				"/Users/splug/Repos/sixeightzero/oa/web/assets/css/theme-monokai.min.css",
+				"/Users/splug/Repos/sixeightzero/oa/web/assets/css/codemirror.min.css",
+				"/Users/splug/Desktop/domainchkr/checklist",
+				"/Users/splug/Desktop/domainchkr/run.py",
+				"/Users/splug/Repos/sixeightzero/oa/web/assets/plugins/bootstrap-timepicker/js/bootstrap-timepicker.js",
+				"/Users/splug/Repos/rockethome/chef/cookbooks/apps/recipes/jirakn0xnet.rb",
+				"/Users/splug/Desktop/cipher.sh",
+				"/Users/splug/Repos/sixeightzero/oa/lib/bakery/record.php",
+				"/Users/splug/Repos/sixeightzero/oa/sql/navigation.sql",
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes/admin/navigation.php",
+				"/Users/splug/Dropbox (Personal)/Designs/webarch/webarch/HTML/form_elements.html",
+				"/Users/splug/Repos/sixeightzero/oa/web/css/themes/green.css",
+				"/Users/splug/Repos/sixeightzero/oa/web/js/switcher/switcher.css",
+				"/Users/splug/Repos/sixeightzero/oa/web/js/switcher/switcher.js",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/layouts/profile.twig",
+				"/Users/splug/Repos/sixeightzero/oa/web/js/switcher.js",
+				"/Users/splug/Repos/sixeightzero/oa/web/css/bootstrap.css",
+				"/Users/splug/Repos/sixeightzero/oa/web/css/style-pink.css",
+				"/Users/splug/Dropbox (Personal)/Mikes Backup/kn0x VPN/static.pem",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/default.twig",
+				"/Users/splug/Repos/sixeightzero/oa/web/assets/plugins/bootstrap-wysihtml5/bootstrap-wysihtml5.js",
+				"/Users/splug/Repos/sixeightzero/oa/web/assets/plugins/bootstrap-wysihtml5/wysihtml5-0.3.0.js",
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes/admin/settings.php",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/pages.twig",
+				"/Users/splug/Repos/sixeightzero/oa/sql/pages.sql",
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes/user/profile.php",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/pages/categories/list.twig",
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes/admin/categories.php",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/pages/sidebar.twig",
+				"/Users/splug/Library/Application Support/Sublime Text 3/Packages/PhpCodeGen/phpcodegen.sublime-settings",
+				"/Users/splug/Library/Application Support/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/pages/categories.twig",
+				"/Users/splug/Repos/sixeightzero/oa/sql/page_categories.sql",
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes/pages.php",
+				"/Users/splug/Repos/sixeightzero/oa/web/assets/js/dashboard.js"
 			],
 			"find":
 			{
-				"height": 35.0
+				"height": 40.0
 			},
 			"find_in_files":
 			{
-				"height": 0.0,
+				"height": 93.0,
 				"where_history":
 				[
 				]
@@ -578,20 +868,1356 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"serial",
-					"serial ",
-					"serial",
-					"());",
+					"activ",
+					"active",
+					"act",
+					"6_",
+					"5_",
+					"4_",
+					"3_",
+					"cb2",
+					"cb1",
+					"2_",
+					"1_",
+					"cb1",
+					"c3",
+					"_text }}",
+					"x1",
+					"c1",
+					"c3",
+					"c2",
+					"c1",
+					" class=\"col-xs-12\"",
+					"error",
+					"amount",
+					"<form",
+					"form",
+					"medical[last_exam]",
+					"_",
+					"%",
+					"'",
+					"[0;31;49m",
+					"686",
+					"$event_group_id",
+					"600",
+					"n:i",
+					"event_group_id",
+					"bookingtypes",
+					"$k",
+					"Setting",
+					"event_i",
+					"$sett",
+					"widgets.js",
+					"background",
+					"btn",
+					"a9a9a9",
+					"#6f7b8a",
+					"toolbar",
+					"split",
+					"/groups/",
+					"eventgroups",
+					"<li >",
+					" class=\"\"",
+					"eventgroup",
+					"pages-",
+					"pages/",
+					"78961d",
+					"2090AC",
+					"28ABCC",
+					"2090ac",
+					"28abcc",
+					"ff8e23",
+					"ff9b38",
+					"a02716",
+					"bc2e1a",
+					"168fa0",
+					"1aa8bc",
+					"16A085",
+					"1ABC9C",
+					"\"image\"",
+					"code",
+					"               ",
+					"               \n",
+					"find(",
+					"Fin(",
+					"name",
+					"PHP_EOL",
+					"wys",
+					"admin-categories",
+					"/pages",
+					"categories/categori",
+					"\"admin/pages/",
+					"Pages",
+					"/oaadmin/pages",
+					"create-page",
+					"pages-",
+					"pages/create",
+					"/pages/",
+					"Page",
+					"ok",
+					"$app->request->getUrl().",
+					"New",
+					"\"assets",
+					"fetchAll(",
+					"SERVER",
+					"Dashboa",
+					"font",
+					"googl",
+					"\"assets",
+					"profile",
+					"email",
+					"       \n",
+					"open",
+					"titanosx",
+					"register_de",
+					"ctzn",
+					"ctznOSX",
+					"ctznosx",
+					"ctznOSX",
+					"orm",
+					"album/:albu",
+					"album/album",
+					"header",
+					"save()",
+					"d9d9da",
+					"14.00",
+					"14",
+					"14.00",
+					"sanitize_address",
+					"new_request",
+					"1",
+					"font_face",
+					"∏",
+					"gzip",
+					"dtr",
+					"postfix",
+					"\\n",
 					"^",
-					"try",
-					"count"
+					"events-manager-bookings",
+					"settings",
+					"setting"
 				],
 				"highlight": true,
 				"in_selection": false,
 				"preserve_case": false,
-				"regex": true,
+				"regex": false,
 				"replace_history":
 				[
+					"8_",
+					"7_",
+					"6_",
+					"5_",
+					"cb4_",
+					"cb3_",
+					"4_",
+					"3_",
+					"2_",
+					"cb2",
+					"cb1",
+					"_text|raw }}",
+					"x2",
+					"x3",
+					"x4",
+					"x5",
+					"x6",
+					"x7",
+					"x8",
+					"c3",
+					"c2",
+					"c3",
+					"c2",
+					"\\_",
+					"\\%",
+					"\\'",
+					"",
+					"g:i",
+					"/",
+					"events",
+					"<li>",
+					"",
+					"events-",
+					"events/",
+					"8caf24",
+					"78961d",
+					"a4cc28",
+					"78961d",
+					"a0167c",
+					"bc1a92",
+					"ff8e23",
+					"ff9b38",
+					"a02716",
+					"bc2e1a",
+					"168fa0",
+					"1aa8bc",
+					"",
+					"\"admin/pages/categories/",
+					"Categories",
+					"/oaadmin/categories",
+					"create-category",
+					"categories-",
+					"pages/categories",
+					"/categories/",
+					"",
+					"\"/assets",
+					"family",
+					"titanOSX",
+					"titan",
+					"titanOSX",
+					" ",
+					"",
+					"#",
+					"",
+					"CtznLanguage",
+					"CtznOSXLanguage",
+					"#",
+					"booking",
+					"Booking",
+					"Event",
+					"Events",
+					"events",
+					"event",
+					"Event",
+					"Events",
+					"_event",
+					"location_",
+					"event_",
+					"dtr-wpfw",
+					"date_modified timestamp DEFAULT '1000-01-01 00:00:00',",
+					"{table_name}",
+					"",
+					"#",
+					"    ",
+					"",
+					"execute_command",
+					"nix.shell_out",
+					"}\\n",
+					"{\\n",
+					"#"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 24.0
+			},
+			"input":
+			{
+				"height": 30.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 230.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.sftp":
+			{
+				"height": 96.0
+			},
+			"replace":
+			{
+				"height": 76.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"",
+						"midas/launcher.py"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 272.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1440.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"html",
+						"html_entity_decode"
+					],
+					[
+						"eve",
+						"eventGroup"
+					],
+					[
+						"padding-",
+						"padding-bottom"
+					],
+					[
+						"book",
+						"booking_types"
+					],
+					[
+						"boo",
+						"booking_types"
+					],
+					[
+						"events",
+						"eventgroups"
+					],
+					[
+						"booking",
+						"booking_type"
+					],
+					[
+						"even",
+						"event_id"
+					],
+					[
+						"d",
+						"disabled	Attr"
+					],
+					[
+						"appoin",
+						"appointments"
+					],
+					[
+						"crea",
+						"create_date"
+					],
+					[
+						"event",
+						"eventgroup"
+					],
+					[
+						"deleted",
+						"deleted_keys"
+					],
+					[
+						"page",
+						"page_id"
+					],
+					[
+						"family_m",
+						"family_members"
+					],
+					[
+						"fa",
+						"family_member"
+					],
+					[
+						"da",
+						"date_created"
+					],
+					[
+						"text-",
+						"text-align"
+					],
+					[
+						"form",
+						"formData"
+					],
+					[
+						"album",
+						"album"
+					],
+					[
+						"is_in",
+						"is_int"
+					],
+					[
+						"al",
+						"album_name"
+					],
+					[
+						"alb",
+						"album_date"
+					],
+					[
+						"albu",
+						"album_date"
+					],
+					[
+						"padd",
+						"padding"
+					],
+					[
+						"margin",
+						"margin"
+					],
+					[
+						"margin-",
+						"margin-bottom"
+					],
+					[
+						"session",
+						"session_destroy"
+					],
+					[
+						"tab",
+						"table_name"
+					],
+					[
+						"sche",
+						"schema_meta"
+					],
+					[
+						"new",
+						"new_schema"
+					],
+					[
+						"auth",
+						"auth_adapter"
+					],
+					[
+						"addre",
+						"address_string"
+					],
+					[
+						"T",
+						"TIMEOUT"
+					],
+					[
+						"requ",
+						"requests"
+					],
+					[
+						"set",
+						"set_error_handler"
+					],
+					[
+						"parse",
+						"parse_ini_file"
+					],
+					[
+						"auto",
+						"autopwn_iptables"
+					],
+					[
+						"padding",
+						"padding-left"
+					],
+					[
+						"succ",
+						"successes"
+					],
+					[
+						"module_t",
+						"module_data"
+					],
+					[
+						"module",
+						"module_data"
+					],
+					[
+						"aut",
+						"audit_date"
+					],
+					[
+						"pre",
+						"prepared_values"
+					],
+					[
+						"getTable",
+						"getTableSchema"
+					],
+					[
+						"json_",
+						"json_encode"
+					],
+					[
+						"get_curr",
+						"get_current_site"
+					],
+					[
+						"pos",
+						"post_id"
+					],
+					[
+						"rol",
+						"role_key"
+					],
+					[
+						"monitor",
+						"monitor_count"
+					],
+					[
+						"remove",
+						"removeClass"
+					],
+					[
+						"tabl",
+						"table-responsive"
+					],
+					[
+						"table",
+						"table-bordered"
+					],
+					[
+						"cel",
+						"cellpadding"
+					],
+					[
+						"mo",
+						"module_data"
+					],
+					[
+						"monit",
+						"monitors"
+					],
+					[
+						"moni",
+						"monitor_path"
+					],
+					[
+						"sh",
+						"shell_out"
+					],
+					[
+						"in",
+						"install_date"
+					],
+					[
+						"monito",
+						"monitor_name"
+					],
+					[
+						"sys",
+						"system"
+					],
+					[
+						"data",
+						"database"
+					],
+					[
+						"sele",
+						"selected_appts"
+					],
+					[
+						"meta",
+						"meta_value"
+					],
+					[
+						"app",
+						"appointment"
+					],
+					[
+						"term_",
+						"term_id"
+					],
+					[
+						"strip",
+						"strip_tags"
+					],
+					[
+						"fi",
+						"field_types"
+					],
+					[
+						"event_boo",
+						"event_booking_id"
+					],
+					[
+						"tax",
+						"taxonomy_terms"
+					],
+					[
+						"appoi",
+						"appointments"
+					],
+					[
+						"long",
+						"longitude"
+					],
+					[
+						"ob_e",
+						"ob_end_clean"
+					],
+					[
+						"inline",
+						"inline-block"
+					],
+					[
+						"column",
+						"column_name"
+					],
+					[
+						"funct",
+						"func_get_args"
+					],
+					[
+						"term",
+						"term_meta"
+					],
+					[
+						"get_defin",
+						"get_defined_vars"
+					],
+					[
+						"de",
+						"details"
+					],
+					[
+						"Check",
+						"Checkbox"
+					],
+					[
+						"chec",
+						"checked"
+					],
+					[
+						"att",
+						"attribute_name"
+					],
+					[
+						"req",
+						"required"
+					],
+					[
+						"inli",
+						"inline-block"
+					],
+					[
+						"attr",
+						"attr_details"
+					],
+					[
+						"attri",
+						"attribute"
+					],
+					[
+						"text",
+						"textarea	Tag"
+					],
+					[
+						"op",
+						"option	Tag"
+					],
+					[
+						"func_get",
+						"func_get_args"
+					],
+					[
+						"print",
+						"print_r"
+					],
+					[
+						"schema",
+						"schema_version"
+					],
+					[
+						"see",
+						"seed_data"
+					],
+					[
+						"debug",
+						"debug_backtrace"
+					],
+					[
+						"post",
+						"post_object"
+					],
+					[
+						"compr",
+						"compressed"
+					],
+					[
+						"gw",
+						"gwip"
+					],
+					[
+						"dg",
+						"dgw_ip"
+					],
+					[
+						"public",
+						"public_ip"
+					],
+					[
+						"is",
+						"isfile"
+					],
+					[
+						"ssh",
+						"ssh_keys"
+					],
+					[
+						"dat",
+						"datastore"
+					],
+					[
+						"sc",
+						"schema"
+					],
+					[
+						"finger",
+						"fingerprints"
+					],
+					[
+						"schem",
+						"schema_file"
+					],
+					[
+						"sstk",
+						"show_sstk"
+					],
+					[
+						"config",
+						"config_file"
+					],
+					[
+						"c",
+						"config_file"
+					],
+					[
+						"rep",
+						"repo_name"
+					],
+					[
+						"remote",
+						"remote_branches"
+					],
+					[
+						"branc",
+						"branches"
+					],
+					[
+						"MODUL",
+						"MODULE_PACKS"
+					],
+					[
+						"mod",
+						"mod_name"
+					],
+					[
+						"target",
+						"target_count"
+					],
+					[
+						"parse_",
+						"parse_url"
+					],
+					[
+						"array_key",
+						"array_key_exists"
+					],
+					[
+						"gethost",
+						"gethostbyname"
+					],
+					[
+						"sig_cla",
+						"sig_class_id"
+					],
+					[
+						"alert",
+						"alert_match"
+					],
+					[
+						"pro",
+						"protocol"
+					],
+					[
+						"source",
+						"source_ip"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/splug/Repos/sixeightzero/oa/views/admin/events/groups/list.twig",
+					"settings":
+					{
+						"buffer_size": 3990,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/splug/Repos/sixeightzero/oa/lib/routes/events.php",
+					"settings":
+					{
+						"buffer_size": 19953,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/splug/Repos/sixeightzero/oa/sql/event_groups.sql",
+					"settings":
+					{
+						"buffer_size": 547,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "Packages/User/PHP.sublime-build",
+			"command_palette":
+			{
+				"height": 119.0,
+				"selected_items":
+				[
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"co",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"json",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"pack",
+						"Package Control: Remove Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: List Packages"
+					],
+					[
+						"",
+						"DocBlockr: Decorate line comment"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"git",
+						"GitHub: View"
+					],
+					[
+						"prev",
+						"Pandoc: Render Markdown to temp HTML and View"
+					],
+					[
+						"previ",
+						"GitHub Flavored Markdown: Preview"
+					],
+					[
+						"marko",
+						"MarkdownLive: Reload Server"
+					],
+					[
+						"Markdown",
+						"MarkdownLive: Reload Server"
+					],
+					[
+						"markdo",
+						"Preferences: Markmon Key Bindings – User"
+					],
+					[
+						"mark",
+						"Set Syntax: MultiMarkdown"
+					],
+					[
+						"ruby",
+						"Set Syntax: Ruby"
+					],
+					[
+						"syntax",
+						"Set Syntax: Python"
+					],
+					[
+						"blame",
+						"GitHub Flavored Markdown: Preview"
+					],
+					[
+						"githu",
+						"GitHub Flavored Markdown: Preview"
+					],
+					[
+						"isnta",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 601.0
+			},
+			"console":
+			{
+				"height": 241.0,
+				"history":
+				[
+					"clear()",
+					"flush()",
+					"flush",
+					"clear",
+					"globals()",
+					"print(\"hello world\")",
+					"print \"hello world\"",
+					"print \"hello world:",
+					"clear()",
+					"clear",
+					"call(\"echo Hello World\", shell=True)  ",
+					"print call(\"echo Hello World\", shell=True)  ",
+					"return_code = call(\"echo Hello World\", shell=True)  ",
+					"os.system(\"php -i\")",
+					"import os; os.system(\"php -i\")",
+					"os.system(\"php -i\")",
+					"call([\"php\", \"-i\"])",
+					"call([\"php\", \"-l\"])",
+					"call([\"php\", \"-l\")",
+					"call([\"ls\", \"-l\"])",
+					"from subprocess import call",
+					"php -l",
+					"exit()",
+					"exit",
+					"sys.exec('sudo ./oink.py')",
+					"exec sudo oink.py",
+					"exec",
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+					" import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/Users/splug/Repos/sixeightzero/oa",
+				"/Users/splug/Repos/sixeightzero/oa/lib",
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes",
+				"/Users/splug/Repos/sixeightzero/oa/sql",
+				"/Users/splug/Repos/sixeightzero/oa/views",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/events",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/events/groups",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/frontpage",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/settings",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/settings/navigation",
+				"/Users/splug/Repos/sixeightzero/oa/views/layouts",
+				"/Users/splug/Repos/sixeightzero/oa/views/page",
+				"/Users/splug/Repos/sixeightzero/oa/web/assets",
+				"/Users/splug/Repos/sixeightzero/oa/web/assets/js",
+				"/Users/splug/Repos/sixeightzero/oa/web/js"
+			],
+			"file_history":
+			[
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes/calenders.php",
+				"/Users/splug/Repos/sixeightzero/oa/views/style2.twig",
+				"/Users/splug/Repos/sixeightzero/oa/views/default.twig",
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes/default.php",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/frontpage/create.twig",
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes/admin/frontpage.php",
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes/contactus.php",
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes/events.php",
+				"/Users/splug/Repos/sixeightzero/oa/views/page/default.twig",
+				"/Users/splug/Repos/sixeightzero/oa/views/layouts/main.twig",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/settings/navigation/list.twig",
+				"/Users/splug/Repos/sixeightzero/oa/web/assets/js/jquery.nestedsortable.js",
+				"/Users/splug/Repos/sixeightzero/oa/views/page/contactus.twig",
+				"/Users/splug/Repos/sixeightzero/oa/views/404.html",
+				"/Users/splug/Repos/sixeightzero/oa/bootstrap.php",
+				"/Users/splug/Repos/sixeightzero/oa/lib/bakery/auth/acl.php",
+				"/Users/splug/Repos/sixeightzero/oa/views/email/default.twig",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/layouts/sidebar.twig",
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes/user/register.php",
+				"/Users/splug/Repos/sixeightzero/oa/web/js/banzhow.js",
+				"/Users/splug/Repos/sixeightzero/oa/lib/twitter/OAuth.php",
+				"/Users/splug/Repos/sixeightzero/oa/lib/twitter/twitteroauth.php",
+				"/Users/splug/Repos/sixeightzero/oa/composer.json",
+				"/Users/splug/Repos/sixeightzero/oa/web/js/jquery.tweetable.js",
+				"/Users/splug/Repos/sixeightzero/oa/.rock.yml",
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes/admin/users.php",
+				"/Users/splug/Repos/sixeightzero/oa/views/user/events.twig",
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes/user/events.php",
+				"/Users/splug/Repos/sixeightzero/oa/views/user/family.twig",
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes/user/family.php",
+				"/Users/splug/Repos/sixeightzero/oa/views/events/calendar.twig",
+				"/Users/splug/Repos/sixeightzero/oa/views/events/calendar-search.twig",
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes/admin/bookings.php",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/events/groups/create.twig",
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes/admin/eventgroups.php",
+				"/Users/splug/Repos/sixeightzero/oa/sql/event_groups.sql",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/events/groups/list.twig",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/bookings/create.twig",
+				"/Users/splug/Repos/sixeightzero/oa/views/events/show.twig",
+				"/Users/splug/Repos/sixeightzero/oa/sql/users.sql",
+				"/Users/splug/Repos/sixeightzero/oa/sql/settings.sql",
+				"/Users/splug/Repos/sixeightzero/oa/web/index.php",
+				"/Users/splug/Repos/sixeightzero/oa/logs/.gitkeep",
+				"/Users/splug/Repos/sixeightzero/oa/web/css/style.css",
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes/admin/subusers.php",
+				"/Users/splug/Repos/sixeightzero/oa/views/user/register.twig",
+				"/Users/splug/Repos/shutterstock/people/.rock.yml",
+				"/Users/splug/Repos/shutterstock/people/Gemfile",
+				"/Users/splug/Repos/sixeightzero/oa/views/login.twig",
+				"/Users/splug/Desktop/domainchkr/invalid_domains",
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes/admin/bookingsapi.php",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/layouts/booking_print.twig",
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes/admin/events.php",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/events/create.twig",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/events/locations/create.twig",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/pages/categories/new.twig",
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes/admin/default.php",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/events/list.twig",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/pages/list.twig",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/subusers/create.twig",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/users/create.twig",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/users/list.twig",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/bookings/list.twig",
+				"/Users/splug/Repos/sixeightzero/oa/sql/user_notes.sql",
+				"/Users/splug/Repos/sixeightzero/oa/sql/people_meta.sql",
+				"/Users/splug/Repos/sixeightzero/oa/sql/people_medical.sql",
+				"/Users/splug/Repos/sixeightzero/oa/sql/people_insurance.sql",
+				"/Users/splug/Repos/sixeightzero/oa/sql/bookings.sql",
+				"/Users/splug/Repos/sixeightzero/oa/sql/booking_types.sql",
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes/admin/locations.php",
+				"/Users/splug/Repos/sixeightzero/oa/sql/events.sql",
+				"/Users/splug/Repos/sixeightzero/oa/sql/locations.sql",
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes/admin/bookingtypes.php",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/bookings/types/list.twig",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/settings/list.twig",
+				"/Users/splug/Repos/sixeightzero/oa/lib/bakery/orm.php",
+				"/Users/splug/Repos/sixeightzero/oa/lib/model_helpers.php",
+				"/Users/splug/ctos/cli/setup.py",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/events/locations/list.twig",
+				"/Users/splug/Repos/sixeightzero/oa/web/assets/js/core.js",
+				"/Users/splug/Repos/sixeightzero/oa/web/assets/plugins/bootstrap-timepicker/js/bootstrap-timepicker.min.js",
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes/admin/pages.php",
+				"/Users/splug/Repos/sixeightzero/oa/web/assets/plugins/ckeditor/config.js",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/pages/create.twig",
+				"/Users/splug/Repos/sixeightzero/oa/web/assets/plugins/ckeditor/core/dom/element.js",
+				"/Users/splug/Repos/sixeightzero/oa/web/assets/js/ckeditor/config.js",
+				"/Users/splug/Repos/sixeightzero/oa/web/assets/css/style.css",
+				"/Users/splug/Repos/sixeightzero/oa/web/assets/css/summernote.css",
+				"/Users/splug/Repos/sixeightzero/oa/web/assets/js/summernote.min.js",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/layouts/main.twig",
+				"/Users/splug/Repos/sixeightzero/oa/web/assets/js/xml.min.js",
+				"/Users/splug/Repos/sixeightzero/oa/web/assets/js/formatting.min.js",
+				"/Users/splug/Repos/sixeightzero/oa/web/assets/js/codemirror.min.js",
+				"/Users/splug/Repos/sixeightzero/oa/web/assets/css/theme-monokai.min.css",
+				"/Users/splug/Repos/sixeightzero/oa/web/assets/css/codemirror.min.css",
+				"/Users/splug/Desktop/domainchkr/checklist",
+				"/Users/splug/Desktop/domainchkr/run.py",
+				"/Users/splug/Repos/sixeightzero/oa/web/assets/plugins/bootstrap-timepicker/js/bootstrap-timepicker.js",
+				"/Users/splug/Repos/rockethome/chef/cookbooks/apps/recipes/jirakn0xnet.rb",
+				"/Users/splug/Desktop/cipher.sh",
+				"/Users/splug/Repos/sixeightzero/oa/lib/bakery/record.php",
+				"/Users/splug/Repos/sixeightzero/oa/sql/navigation.sql",
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes/admin/navigation.php",
+				"/Users/splug/Dropbox (Personal)/Designs/webarch/webarch/HTML/form_elements.html",
+				"/Users/splug/Repos/sixeightzero/oa/web/css/themes/green.css",
+				"/Users/splug/Repos/sixeightzero/oa/web/js/switcher/switcher.css",
+				"/Users/splug/Repos/sixeightzero/oa/web/js/switcher/switcher.js",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/layouts/profile.twig",
+				"/Users/splug/Repos/sixeightzero/oa/web/js/switcher.js",
+				"/Users/splug/Repos/sixeightzero/oa/web/css/bootstrap.css",
+				"/Users/splug/Repos/sixeightzero/oa/web/css/style-pink.css",
+				"/Users/splug/Dropbox (Personal)/Mikes Backup/kn0x VPN/static.pem",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/default.twig",
+				"/Users/splug/Repos/sixeightzero/oa/web/assets/plugins/bootstrap-wysihtml5/bootstrap-wysihtml5.js",
+				"/Users/splug/Repos/sixeightzero/oa/web/assets/plugins/bootstrap-wysihtml5/wysihtml5-0.3.0.js",
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes/admin/settings.php",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/pages.twig",
+				"/Users/splug/Repos/sixeightzero/oa/sql/pages.sql",
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes/user/profile.php",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/pages/categories/list.twig",
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes/admin/categories.php",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/pages/sidebar.twig",
+				"/Users/splug/Library/Application Support/Sublime Text 3/Packages/PhpCodeGen/phpcodegen.sublime-settings",
+				"/Users/splug/Library/Application Support/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/pages/categories.twig",
+				"/Users/splug/Repos/sixeightzero/oa/sql/page_categories.sql",
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes/pages.php",
+				"/Users/splug/Repos/sixeightzero/oa/web/assets/js/dashboard.js"
+			],
+			"find":
+			{
+				"height": 40.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"activ",
+					"active",
+					"act",
+					"6_",
+					"5_",
+					"4_",
+					"3_",
+					"cb2",
+					"cb1",
+					"2_",
+					"1_",
+					"cb1",
+					"c3",
+					"_text }}",
+					"x1",
+					"c1",
+					"c3",
+					"c2",
+					"c1",
+					" class=\"col-xs-12\"",
+					"error",
+					"amount",
+					"<form",
+					"form",
+					"medical[last_exam]",
+					"_",
+					"%",
+					"'",
+					"[0;31;49m",
+					"686",
+					"$event_group_id",
+					"600",
+					"n:i",
+					"event_group_id",
+					"bookingtypes",
+					"$k",
+					"Setting",
+					"event_i",
+					"$sett",
+					"widgets.js",
+					"background",
+					"btn",
+					"a9a9a9",
+					"#6f7b8a",
+					"toolbar",
+					"split",
+					"/groups/",
+					"eventgroups",
+					"<li >",
+					" class=\"\"",
+					"eventgroup",
+					"pages-",
+					"pages/",
+					"78961d",
+					"2090AC",
+					"28ABCC",
+					"2090ac",
+					"28abcc",
+					"ff8e23",
+					"ff9b38",
+					"a02716",
+					"bc2e1a",
+					"168fa0",
+					"1aa8bc",
+					"16A085",
+					"1ABC9C",
+					"\"image\"",
+					"code",
+					"               ",
+					"               \n",
+					"find(",
+					"Fin(",
+					"name",
+					"PHP_EOL",
+					"wys",
+					"admin-categories",
+					"/pages",
+					"categories/categori",
+					"\"admin/pages/",
+					"Pages",
+					"/oaadmin/pages",
+					"create-page",
+					"pages-",
+					"pages/create",
+					"/pages/",
+					"Page",
+					"ok",
+					"$app->request->getUrl().",
+					"New",
+					"\"assets",
+					"fetchAll(",
+					"SERVER",
+					"Dashboa",
+					"font",
+					"googl",
+					"\"assets",
+					"profile",
+					"email",
+					"       \n",
+					"open",
+					"titanosx",
+					"register_de",
+					"ctzn",
+					"ctznOSX",
+					"ctznosx",
+					"ctznOSX",
+					"orm",
+					"album/:albu",
+					"album/album",
+					"header",
+					"save()",
+					"d9d9da",
+					"14.00",
+					"14",
+					"14.00",
+					"sanitize_address",
+					"new_request",
+					"1",
+					"font_face",
+					"∏",
+					"gzip",
+					"dtr",
+					"postfix",
+					"\\n",
+					"^",
+					"events-manager-bookings",
+					"settings",
+					"setting"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"8_",
+					"7_",
+					"6_",
+					"5_",
+					"cb4_",
+					"cb3_",
+					"4_",
+					"3_",
+					"2_",
+					"cb2",
+					"cb1",
+					"_text|raw }}",
+					"x2",
+					"x3",
+					"x4",
+					"x5",
+					"x6",
+					"x7",
+					"x8",
+					"c3",
+					"c2",
+					"c3",
+					"c2",
+					"\\_",
+					"\\%",
+					"\\'",
+					"",
+					"g:i",
+					"/",
+					"events",
+					"<li>",
+					"",
+					"events-",
+					"events/",
+					"8caf24",
+					"78961d",
+					"a4cc28",
+					"78961d",
+					"a0167c",
+					"bc1a92",
+					"ff8e23",
+					"ff9b38",
+					"a02716",
+					"bc2e1a",
+					"168fa0",
+					"1aa8bc",
+					"",
+					"\"admin/pages/categories/",
+					"Categories",
+					"/oaadmin/categories",
+					"create-category",
+					"categories-",
+					"pages/categories",
+					"/categories/",
+					"",
+					"\"/assets",
+					"family",
+					"titanOSX",
+					"titan",
+					"titanOSX",
+					" ",
+					"",
+					"#",
+					"",
+					"CtznLanguage",
+					"CtznOSXLanguage",
+					"#",
+					"booking",
+					"Booking",
+					"Event",
+					"Events",
+					"events",
+					"event",
+					"Event",
+					"Events",
+					"_event",
+					"location_",
+					"event_",
+					"dtr-wpfw",
+					"date_modified timestamp DEFAULT '1000-01-01 00:00:00',",
+					"{table_name}",
+					"",
+					"#",
+					"    ",
+					"",
+					"execute_command",
+					"nix.shell_out",
+					"}\\n",
+					"{\\n",
 					"#"
 				],
 				"reverse": false,
@@ -604,75 +2230,78 @@
 			[
 				{
 					"follow_symlinks": true,
-					"path": "/Users/splug/Repos/shutterstock/macinvader"
+					"path": "/Users/splug/Repos/sixeightzero/oa"
 				}
 			],
 			"groups":
 			[
 				{
-					"selected": 0,
+					"selected": 2,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/Users/splug/Repos/shutterstock/macinvader/clients/invader.py",
+							"file": "/Users/splug/Repos/sixeightzero/oa/views/admin/events/groups/list.twig",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 3873,
+								"buffer_size": 3990,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										1514,
-										1514
+										3113,
+										3113
 									]
 								],
 								"settings":
 								{
+									"function_name_status_row": 64,
 									"incomplete_sync": null,
 									"remote_loading": false,
 									"synced": false,
-									"syntax": "Packages/Python/Python.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 365.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/Users/splug/Repos/shutterstock/macinvader/routes/api.rb",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 3865,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										919,
-										919
-									]
-								],
-								"settings":
-								{
-									"incomplete_sync": null,
-									"remote_loading": false,
-									"synced": false,
-									"syntax": "Packages/Ruby/Ruby.tmLanguage",
+									"syntax": "Packages/PHP-Twig/Syntaxes/HTML (Twig).tmLanguage",
 									"tab_size": 2,
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 449.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Users/splug/Repos/sixeightzero/oa/lib/routes/events.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 19953,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										6812,
+										6812
+									]
+								],
+								"settings":
+								{
+									"function_name_status_row": 156,
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2026.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 1,
@@ -680,66 +2309,34 @@
 						},
 						{
 							"buffer": 2,
-							"file": "/Users/splug/Repos/shutterstock/macinvader/sql/migrate/03_create_assignments.rb",
+							"file": "/Users/splug/Repos/sixeightzero/oa/sql/event_groups.sql",
 							"semi_transient": true,
 							"settings":
 							{
-								"buffer_size": 263,
+								"buffer_size": 547,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										0,
-										0
+										547,
+										375
 									]
 								],
 								"settings":
 								{
+									"function_name_status_row": 18,
 									"incomplete_sync": null,
 									"remote_loading": false,
 									"synced": false,
-									"syntax": "Packages/Ruby/Ruby.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
+									"syntax": "Packages/SQL/SQL.tmLanguage"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "/Users/splug/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 259,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										235,
-										235
-									]
-								],
-								"settings":
-								{
-									"incomplete_sync": null,
-									"remote_loading": false,
-									"synced": false,
-									"syntax": "Packages/JavaScript/JSON.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 3,
+							"stack_index": 0,
 							"type": "text"
 						}
 					]
@@ -747,7 +2344,7 @@
 			],
 			"incremental_find":
 			{
-				"height": 22.0
+				"height": 24.0
 			},
 			"input":
 			{
@@ -778,7 +2375,7 @@
 			"menu_visible": true,
 			"output.exec":
 			{
-				"height": 156.0
+				"height": 230.0
 			},
 			"output.find_results":
 			{
@@ -786,13 +2383,13 @@
 			},
 			"output.sftp":
 			{
-				"height": 94.0
+				"height": 96.0
 			},
-			"position": "184 88 1050 790 0 0 1440 878 ",
+			"position": "0 0 0 1440 877 0 0 1440 877 ",
 			"project": "",
 			"replace":
 			{
-				"height": 40.0
+				"height": 76.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -800,6 +2397,10 @@
 				"height": 0.0,
 				"selected_items":
 				[
+					[
+						"",
+						"midas/launcher.py"
+					]
 				],
 				"width": 0.0
 			},
@@ -819,6 +2420,7 @@
 				],
 				"width": 0.0
 			},
+			"selected_group": 0,
 			"settings":
 			{
 			},
@@ -826,12 +2428,1186 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 211.0,
+			"side_bar_width": 272.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 42,
+			"window_id": 301,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"html",
+						"html_entity_decode"
+					],
+					[
+						"eve",
+						"eventGroup"
+					],
+					[
+						"padding-",
+						"padding-bottom"
+					],
+					[
+						"book",
+						"booking_types"
+					],
+					[
+						"boo",
+						"booking_types"
+					],
+					[
+						"events",
+						"eventgroups"
+					],
+					[
+						"booking",
+						"booking_type"
+					],
+					[
+						"even",
+						"event_id"
+					],
+					[
+						"d",
+						"disabled	Attr"
+					],
+					[
+						"appoin",
+						"appointments"
+					],
+					[
+						"crea",
+						"create_date"
+					],
+					[
+						"event",
+						"eventgroup"
+					],
+					[
+						"deleted",
+						"deleted_keys"
+					],
+					[
+						"page",
+						"page_id"
+					],
+					[
+						"family_m",
+						"family_members"
+					],
+					[
+						"fa",
+						"family_member"
+					],
+					[
+						"da",
+						"date_created"
+					],
+					[
+						"text-",
+						"text-align"
+					],
+					[
+						"form",
+						"formData"
+					],
+					[
+						"album",
+						"album"
+					],
+					[
+						"is_in",
+						"is_int"
+					],
+					[
+						"al",
+						"album_name"
+					],
+					[
+						"alb",
+						"album_date"
+					],
+					[
+						"albu",
+						"album_date"
+					],
+					[
+						"padd",
+						"padding"
+					],
+					[
+						"margin",
+						"margin"
+					],
+					[
+						"margin-",
+						"margin-bottom"
+					],
+					[
+						"session",
+						"session_destroy"
+					],
+					[
+						"tab",
+						"table_name"
+					],
+					[
+						"sche",
+						"schema_meta"
+					],
+					[
+						"new",
+						"new_schema"
+					],
+					[
+						"auth",
+						"auth_adapter"
+					],
+					[
+						"addre",
+						"address_string"
+					],
+					[
+						"T",
+						"TIMEOUT"
+					],
+					[
+						"requ",
+						"requests"
+					],
+					[
+						"set",
+						"set_error_handler"
+					],
+					[
+						"parse",
+						"parse_ini_file"
+					],
+					[
+						"auto",
+						"autopwn_iptables"
+					],
+					[
+						"padding",
+						"padding-left"
+					],
+					[
+						"succ",
+						"successes"
+					],
+					[
+						"module_t",
+						"module_data"
+					],
+					[
+						"module",
+						"module_data"
+					],
+					[
+						"aut",
+						"audit_date"
+					],
+					[
+						"pre",
+						"prepared_values"
+					],
+					[
+						"getTable",
+						"getTableSchema"
+					],
+					[
+						"json_",
+						"json_encode"
+					],
+					[
+						"get_curr",
+						"get_current_site"
+					],
+					[
+						"pos",
+						"post_id"
+					],
+					[
+						"rol",
+						"role_key"
+					],
+					[
+						"monitor",
+						"monitor_count"
+					],
+					[
+						"remove",
+						"removeClass"
+					],
+					[
+						"tabl",
+						"table-responsive"
+					],
+					[
+						"table",
+						"table-bordered"
+					],
+					[
+						"cel",
+						"cellpadding"
+					],
+					[
+						"mo",
+						"module_data"
+					],
+					[
+						"monit",
+						"monitors"
+					],
+					[
+						"moni",
+						"monitor_path"
+					],
+					[
+						"sh",
+						"shell_out"
+					],
+					[
+						"in",
+						"install_date"
+					],
+					[
+						"monito",
+						"monitor_name"
+					],
+					[
+						"sys",
+						"system"
+					],
+					[
+						"data",
+						"database"
+					],
+					[
+						"sele",
+						"selected_appts"
+					],
+					[
+						"meta",
+						"meta_value"
+					],
+					[
+						"app",
+						"appointment"
+					],
+					[
+						"term_",
+						"term_id"
+					],
+					[
+						"strip",
+						"strip_tags"
+					],
+					[
+						"fi",
+						"field_types"
+					],
+					[
+						"event_boo",
+						"event_booking_id"
+					],
+					[
+						"tax",
+						"taxonomy_terms"
+					],
+					[
+						"appoi",
+						"appointments"
+					],
+					[
+						"long",
+						"longitude"
+					],
+					[
+						"ob_e",
+						"ob_end_clean"
+					],
+					[
+						"inline",
+						"inline-block"
+					],
+					[
+						"column",
+						"column_name"
+					],
+					[
+						"funct",
+						"func_get_args"
+					],
+					[
+						"term",
+						"term_meta"
+					],
+					[
+						"get_defin",
+						"get_defined_vars"
+					],
+					[
+						"de",
+						"details"
+					],
+					[
+						"Check",
+						"Checkbox"
+					],
+					[
+						"chec",
+						"checked"
+					],
+					[
+						"att",
+						"attribute_name"
+					],
+					[
+						"req",
+						"required"
+					],
+					[
+						"inli",
+						"inline-block"
+					],
+					[
+						"attr",
+						"attr_details"
+					],
+					[
+						"attri",
+						"attribute"
+					],
+					[
+						"text",
+						"textarea	Tag"
+					],
+					[
+						"op",
+						"option	Tag"
+					],
+					[
+						"func_get",
+						"func_get_args"
+					],
+					[
+						"print",
+						"print_r"
+					],
+					[
+						"schema",
+						"schema_version"
+					],
+					[
+						"see",
+						"seed_data"
+					],
+					[
+						"debug",
+						"debug_backtrace"
+					],
+					[
+						"post",
+						"post_object"
+					],
+					[
+						"compr",
+						"compressed"
+					],
+					[
+						"gw",
+						"gwip"
+					],
+					[
+						"dg",
+						"dgw_ip"
+					],
+					[
+						"public",
+						"public_ip"
+					],
+					[
+						"is",
+						"isfile"
+					],
+					[
+						"ssh",
+						"ssh_keys"
+					],
+					[
+						"dat",
+						"datastore"
+					],
+					[
+						"sc",
+						"schema"
+					],
+					[
+						"finger",
+						"fingerprints"
+					],
+					[
+						"schem",
+						"schema_file"
+					],
+					[
+						"sstk",
+						"show_sstk"
+					],
+					[
+						"config",
+						"config_file"
+					],
+					[
+						"c",
+						"config_file"
+					],
+					[
+						"rep",
+						"repo_name"
+					],
+					[
+						"remote",
+						"remote_branches"
+					],
+					[
+						"branc",
+						"branches"
+					],
+					[
+						"MODUL",
+						"MODULE_PACKS"
+					],
+					[
+						"mod",
+						"mod_name"
+					],
+					[
+						"target",
+						"target_count"
+					],
+					[
+						"parse_",
+						"parse_url"
+					],
+					[
+						"array_key",
+						"array_key_exists"
+					],
+					[
+						"gethost",
+						"gethostbyname"
+					],
+					[
+						"sig_cla",
+						"sig_class_id"
+					],
+					[
+						"alert",
+						"alert_match"
+					],
+					[
+						"pro",
+						"protocol"
+					],
+					[
+						"source",
+						"source_ip"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/splug/Repos/rockethome/chef/cookbooks/apps/recipes/iriskn0xnet.rb",
+					"settings":
+					{
+						"buffer_size": 3147,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "Packages/User/PHP.sublime-build",
+			"command_palette":
+			{
+				"height": 119.0,
+				"selected_items":
+				[
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"co",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"json",
+						"Pretty JSON: Format (Pretty Print) JSON"
+					],
+					[
+						"pack",
+						"Package Control: Remove Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: List Packages"
+					],
+					[
+						"",
+						"DocBlockr: Decorate line comment"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"git",
+						"GitHub: View"
+					],
+					[
+						"prev",
+						"Pandoc: Render Markdown to temp HTML and View"
+					],
+					[
+						"previ",
+						"GitHub Flavored Markdown: Preview"
+					],
+					[
+						"marko",
+						"MarkdownLive: Reload Server"
+					],
+					[
+						"Markdown",
+						"MarkdownLive: Reload Server"
+					],
+					[
+						"markdo",
+						"Preferences: Markmon Key Bindings – User"
+					],
+					[
+						"mark",
+						"Set Syntax: MultiMarkdown"
+					],
+					[
+						"ruby",
+						"Set Syntax: Ruby"
+					],
+					[
+						"syntax",
+						"Set Syntax: Python"
+					],
+					[
+						"blame",
+						"GitHub Flavored Markdown: Preview"
+					],
+					[
+						"githu",
+						"GitHub Flavored Markdown: Preview"
+					],
+					[
+						"isnta",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 601.0
+			},
+			"console":
+			{
+				"height": 241.0,
+				"history":
+				[
+					"clear()",
+					"flush()",
+					"flush",
+					"clear",
+					"globals()",
+					"print(\"hello world\")",
+					"print \"hello world\"",
+					"print \"hello world:",
+					"clear()",
+					"clear",
+					"call(\"echo Hello World\", shell=True)  ",
+					"print call(\"echo Hello World\", shell=True)  ",
+					"return_code = call(\"echo Hello World\", shell=True)  ",
+					"os.system(\"php -i\")",
+					"import os; os.system(\"php -i\")",
+					"os.system(\"php -i\")",
+					"call([\"php\", \"-i\"])",
+					"call([\"php\", \"-l\"])",
+					"call([\"php\", \"-l\")",
+					"call([\"ls\", \"-l\"])",
+					"from subprocess import call",
+					"php -l",
+					"exit()",
+					"exit",
+					"sys.exec('sudo ./oink.py')",
+					"exec sudo oink.py",
+					"exec",
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+					" import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/Users/splug/Repos/rockethome/chef",
+				"/Users/splug/Repos/rockethome/chef/cookbooks",
+				"/Users/splug/Repos/rockethome/chef/cookbooks/apps",
+				"/Users/splug/Repos/rockethome/chef/cookbooks/apps/recipes"
+			],
+			"file_history":
+			[
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes/calenders.php",
+				"/Users/splug/Repos/sixeightzero/oa/views/style2.twig",
+				"/Users/splug/Repos/sixeightzero/oa/views/default.twig",
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes/default.php",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/frontpage/create.twig",
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes/admin/frontpage.php",
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes/contactus.php",
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes/events.php",
+				"/Users/splug/Repos/sixeightzero/oa/views/page/default.twig",
+				"/Users/splug/Repos/sixeightzero/oa/views/layouts/main.twig",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/settings/navigation/list.twig",
+				"/Users/splug/Repos/sixeightzero/oa/web/assets/js/jquery.nestedsortable.js",
+				"/Users/splug/Repos/sixeightzero/oa/views/page/contactus.twig",
+				"/Users/splug/Repos/sixeightzero/oa/views/404.html",
+				"/Users/splug/Repos/sixeightzero/oa/bootstrap.php",
+				"/Users/splug/Repos/sixeightzero/oa/lib/bakery/auth/acl.php",
+				"/Users/splug/Repos/sixeightzero/oa/views/email/default.twig",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/layouts/sidebar.twig",
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes/user/register.php",
+				"/Users/splug/Repos/sixeightzero/oa/web/js/banzhow.js",
+				"/Users/splug/Repos/sixeightzero/oa/lib/twitter/OAuth.php",
+				"/Users/splug/Repos/sixeightzero/oa/lib/twitter/twitteroauth.php",
+				"/Users/splug/Repos/sixeightzero/oa/composer.json",
+				"/Users/splug/Repos/sixeightzero/oa/web/js/jquery.tweetable.js",
+				"/Users/splug/Repos/sixeightzero/oa/.rock.yml",
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes/admin/users.php",
+				"/Users/splug/Repos/sixeightzero/oa/views/user/events.twig",
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes/user/events.php",
+				"/Users/splug/Repos/sixeightzero/oa/views/user/family.twig",
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes/user/family.php",
+				"/Users/splug/Repos/sixeightzero/oa/views/events/calendar.twig",
+				"/Users/splug/Repos/sixeightzero/oa/views/events/calendar-search.twig",
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes/admin/bookings.php",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/events/groups/create.twig",
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes/admin/eventgroups.php",
+				"/Users/splug/Repos/sixeightzero/oa/sql/event_groups.sql",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/events/groups/list.twig",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/bookings/create.twig",
+				"/Users/splug/Repos/sixeightzero/oa/views/events/show.twig",
+				"/Users/splug/Repos/sixeightzero/oa/sql/users.sql",
+				"/Users/splug/Repos/sixeightzero/oa/sql/settings.sql",
+				"/Users/splug/Repos/sixeightzero/oa/web/index.php",
+				"/Users/splug/Repos/sixeightzero/oa/logs/.gitkeep",
+				"/Users/splug/Repos/sixeightzero/oa/web/css/style.css",
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes/admin/subusers.php",
+				"/Users/splug/Repos/sixeightzero/oa/views/user/register.twig",
+				"/Users/splug/Repos/shutterstock/people/.rock.yml",
+				"/Users/splug/Repos/shutterstock/people/Gemfile",
+				"/Users/splug/Repos/sixeightzero/oa/views/login.twig",
+				"/Users/splug/Desktop/domainchkr/invalid_domains",
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes/admin/bookingsapi.php",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/layouts/booking_print.twig",
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes/admin/events.php",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/events/create.twig",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/events/locations/create.twig",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/pages/categories/new.twig",
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes/admin/default.php",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/events/list.twig",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/pages/list.twig",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/subusers/create.twig",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/users/create.twig",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/users/list.twig",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/bookings/list.twig",
+				"/Users/splug/Repos/sixeightzero/oa/sql/user_notes.sql",
+				"/Users/splug/Repos/sixeightzero/oa/sql/people_meta.sql",
+				"/Users/splug/Repos/sixeightzero/oa/sql/people_medical.sql",
+				"/Users/splug/Repos/sixeightzero/oa/sql/people_insurance.sql",
+				"/Users/splug/Repos/sixeightzero/oa/sql/bookings.sql",
+				"/Users/splug/Repos/sixeightzero/oa/sql/booking_types.sql",
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes/admin/locations.php",
+				"/Users/splug/Repos/sixeightzero/oa/sql/events.sql",
+				"/Users/splug/Repos/sixeightzero/oa/sql/locations.sql",
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes/admin/bookingtypes.php",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/bookings/types/list.twig",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/settings/list.twig",
+				"/Users/splug/Repos/sixeightzero/oa/lib/bakery/orm.php",
+				"/Users/splug/Repos/sixeightzero/oa/lib/model_helpers.php",
+				"/Users/splug/ctos/cli/setup.py",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/events/locations/list.twig",
+				"/Users/splug/Repos/sixeightzero/oa/web/assets/js/core.js",
+				"/Users/splug/Repos/sixeightzero/oa/web/assets/plugins/bootstrap-timepicker/js/bootstrap-timepicker.min.js",
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes/admin/pages.php",
+				"/Users/splug/Repos/sixeightzero/oa/web/assets/plugins/ckeditor/config.js",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/pages/create.twig",
+				"/Users/splug/Repos/sixeightzero/oa/web/assets/plugins/ckeditor/core/dom/element.js",
+				"/Users/splug/Repos/sixeightzero/oa/web/assets/js/ckeditor/config.js",
+				"/Users/splug/Repos/sixeightzero/oa/web/assets/css/style.css",
+				"/Users/splug/Repos/sixeightzero/oa/web/assets/css/summernote.css",
+				"/Users/splug/Repos/sixeightzero/oa/web/assets/js/summernote.min.js",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/layouts/main.twig",
+				"/Users/splug/Repos/sixeightzero/oa/web/assets/js/xml.min.js",
+				"/Users/splug/Repos/sixeightzero/oa/web/assets/js/formatting.min.js",
+				"/Users/splug/Repos/sixeightzero/oa/web/assets/js/codemirror.min.js",
+				"/Users/splug/Repos/sixeightzero/oa/web/assets/css/theme-monokai.min.css",
+				"/Users/splug/Repos/sixeightzero/oa/web/assets/css/codemirror.min.css",
+				"/Users/splug/Desktop/domainchkr/checklist",
+				"/Users/splug/Desktop/domainchkr/run.py",
+				"/Users/splug/Repos/sixeightzero/oa/web/assets/plugins/bootstrap-timepicker/js/bootstrap-timepicker.js",
+				"/Users/splug/Repos/rockethome/chef/cookbooks/apps/recipes/jirakn0xnet.rb",
+				"/Users/splug/Desktop/cipher.sh",
+				"/Users/splug/Repos/sixeightzero/oa/lib/bakery/record.php",
+				"/Users/splug/Repos/sixeightzero/oa/sql/navigation.sql",
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes/admin/navigation.php",
+				"/Users/splug/Dropbox (Personal)/Designs/webarch/webarch/HTML/form_elements.html",
+				"/Users/splug/Repos/sixeightzero/oa/web/css/themes/green.css",
+				"/Users/splug/Repos/sixeightzero/oa/web/js/switcher/switcher.css",
+				"/Users/splug/Repos/sixeightzero/oa/web/js/switcher/switcher.js",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/layouts/profile.twig",
+				"/Users/splug/Repos/sixeightzero/oa/web/js/switcher.js",
+				"/Users/splug/Repos/sixeightzero/oa/web/css/bootstrap.css",
+				"/Users/splug/Repos/sixeightzero/oa/web/css/style-pink.css",
+				"/Users/splug/Dropbox (Personal)/Mikes Backup/kn0x VPN/static.pem",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/default.twig",
+				"/Users/splug/Repos/sixeightzero/oa/web/assets/plugins/bootstrap-wysihtml5/bootstrap-wysihtml5.js",
+				"/Users/splug/Repos/sixeightzero/oa/web/assets/plugins/bootstrap-wysihtml5/wysihtml5-0.3.0.js",
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes/admin/settings.php",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/pages.twig",
+				"/Users/splug/Repos/sixeightzero/oa/sql/pages.sql",
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes/user/profile.php",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/pages/categories/list.twig",
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes/admin/categories.php",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/pages/sidebar.twig",
+				"/Users/splug/Library/Application Support/Sublime Text 3/Packages/PhpCodeGen/phpcodegen.sublime-settings",
+				"/Users/splug/Library/Application Support/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+				"/Users/splug/Repos/sixeightzero/oa/views/admin/pages/categories.twig",
+				"/Users/splug/Repos/sixeightzero/oa/sql/page_categories.sql",
+				"/Users/splug/Repos/sixeightzero/oa/lib/routes/pages.php",
+				"/Users/splug/Repos/sixeightzero/oa/web/assets/js/dashboard.js"
+			],
+			"find":
+			{
+				"height": 24.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"activ",
+					"active",
+					"act",
+					"6_",
+					"5_",
+					"4_",
+					"3_",
+					"cb2",
+					"cb1",
+					"2_",
+					"1_",
+					"cb1",
+					"c3",
+					"_text }}",
+					"x1",
+					"c1",
+					"c3",
+					"c2",
+					"c1",
+					" class=\"col-xs-12\"",
+					"error",
+					"amount",
+					"<form",
+					"form",
+					"medical[last_exam]",
+					"_",
+					"%",
+					"'",
+					"[0;31;49m",
+					"686",
+					"$event_group_id",
+					"600",
+					"n:i",
+					"event_group_id",
+					"bookingtypes",
+					"$k",
+					"Setting",
+					"event_i",
+					"$sett",
+					"widgets.js",
+					"background",
+					"btn",
+					"a9a9a9",
+					"#6f7b8a",
+					"toolbar",
+					"split",
+					"/groups/",
+					"eventgroups",
+					"<li >",
+					" class=\"\"",
+					"eventgroup",
+					"pages-",
+					"pages/",
+					"78961d",
+					"2090AC",
+					"28ABCC",
+					"2090ac",
+					"28abcc",
+					"ff8e23",
+					"ff9b38",
+					"a02716",
+					"bc2e1a",
+					"168fa0",
+					"1aa8bc",
+					"16A085",
+					"1ABC9C",
+					"\"image\"",
+					"code",
+					"               ",
+					"               \n",
+					"find(",
+					"Fin(",
+					"name",
+					"PHP_EOL",
+					"wys",
+					"admin-categories",
+					"/pages",
+					"categories/categori",
+					"\"admin/pages/",
+					"Pages",
+					"/oaadmin/pages",
+					"create-page",
+					"pages-",
+					"pages/create",
+					"/pages/",
+					"Page",
+					"ok",
+					"$app->request->getUrl().",
+					"New",
+					"\"assets",
+					"fetchAll(",
+					"SERVER",
+					"Dashboa",
+					"font",
+					"googl",
+					"\"assets",
+					"profile",
+					"email",
+					"       \n",
+					"open",
+					"titanosx",
+					"register_de",
+					"ctzn",
+					"ctznOSX",
+					"ctznosx",
+					"ctznOSX",
+					"orm",
+					"album/:albu",
+					"album/album",
+					"header",
+					"save()",
+					"d9d9da",
+					"14.00",
+					"14",
+					"14.00",
+					"sanitize_address",
+					"new_request",
+					"1",
+					"font_face",
+					"∏",
+					"gzip",
+					"dtr",
+					"postfix",
+					"\\n",
+					"^",
+					"events-manager-bookings",
+					"settings",
+					"setting"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"8_",
+					"7_",
+					"6_",
+					"5_",
+					"cb4_",
+					"cb3_",
+					"4_",
+					"3_",
+					"2_",
+					"cb2",
+					"cb1",
+					"_text|raw }}",
+					"x2",
+					"x3",
+					"x4",
+					"x5",
+					"x6",
+					"x7",
+					"x8",
+					"c3",
+					"c2",
+					"c3",
+					"c2",
+					"\\_",
+					"\\%",
+					"\\'",
+					"",
+					"g:i",
+					"/",
+					"events",
+					"<li>",
+					"",
+					"events-",
+					"events/",
+					"8caf24",
+					"78961d",
+					"a4cc28",
+					"78961d",
+					"a0167c",
+					"bc1a92",
+					"ff8e23",
+					"ff9b38",
+					"a02716",
+					"bc2e1a",
+					"168fa0",
+					"1aa8bc",
+					"",
+					"\"admin/pages/categories/",
+					"Categories",
+					"/oaadmin/categories",
+					"create-category",
+					"categories-",
+					"pages/categories",
+					"/categories/",
+					"",
+					"\"/assets",
+					"family",
+					"titanOSX",
+					"titan",
+					"titanOSX",
+					" ",
+					"",
+					"#",
+					"",
+					"CtznLanguage",
+					"CtznOSXLanguage",
+					"#",
+					"booking",
+					"Booking",
+					"Event",
+					"Events",
+					"events",
+					"event",
+					"Event",
+					"Events",
+					"_event",
+					"location_",
+					"event_",
+					"dtr-wpfw",
+					"date_modified timestamp DEFAULT '1000-01-01 00:00:00',",
+					"{table_name}",
+					"",
+					"#",
+					"    ",
+					"",
+					"execute_command",
+					"nix.shell_out",
+					"}\\n",
+					"{\\n",
+					"#"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"follow_symlinks": true,
+					"path": "/Users/splug/Repos/rockethome/chef"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/splug/Repos/rockethome/chef/cookbooks/apps/recipes/iriskn0xnet.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3147,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2526,
+										2526
+									]
+								],
+								"settings":
+								{
+									"function_name_status_row": 84,
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/Ruby/Ruby.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 24.0
+			},
+			"input":
+			{
+				"height": 30.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 230.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.sftp":
+			{
+				"height": 96.0
+			},
+			"position": "0 588 50 852 827 0 0 1440 877 ",
+			"project": "",
+			"replace":
+			{
+				"height": 44.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"",
+						"midas/launcher.py"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 272.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 321,
 			"workspace_name": ""
 		}
 	],
